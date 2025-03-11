@@ -25,6 +25,7 @@ been getting it in all over the place;
 adding to noted project;  
 less coding, more text formatizationLOL!;  
 
+[studying the docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 used 20m blocks: :eyes: [pomodoro](https://www.pomodorotechnique.com/);    
 :tv: [git scm videos](https://git-scm.com/videos);    
 \+ [vscode videos](https://code.visualstudio.com/docs/getstarted/introvideos);   
