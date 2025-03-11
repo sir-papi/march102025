@@ -16,3 +16,11 @@ tighten up</hr>
 
 2119 been at it.. getting to it  
 started NOTES files; jon duckett html work  
+
+# march112025
+0357: the new 100d of coding;  
+to be joined by chart re-entry;</hr>
+
+been getting it in all over the place;  
+adding to noted project;  
+less coding, more text formatizationLOL!;  
