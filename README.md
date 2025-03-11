@@ -42,7 +42,7 @@ git commit -m "added python files"
 git branch -M main
 git push -u origin main
 ```
-
+more formating skill courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 
 
   
