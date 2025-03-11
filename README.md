@@ -24,3 +24,10 @@ to be joined by chart re-entry;</hr>
 been getting it in all over the place;  
 adding to noted project;  
 less coding, more text formatizationLOL!;  
+
+used 20m blocks: see [pomodoro](https://www.pomodorotechnique.com/);    
+watching [git scm videos](https://git-scm.com/videos);    
+\+ [vscode videos](https://code.visualstudio.com/docs/getstarted/introvideos);   
+
+- [x] jon duckett coding review;
+  
