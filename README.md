@@ -7,5 +7,6 @@ had created html css js files & added img + folder;
 
 ~still havent~ figured out hard return ~wtf~  
 
-last update to README was str8 to main; no new branch|commit|pull|merge  
+last update to README was str8 to main;  
+no new branch|commit|pull|merge;    
 tighten up
