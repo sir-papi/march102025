@@ -12,4 +12,15 @@ had created html css js files & added img + folder;
 
 last update to README was str8 to main;  
 no new branch|commit|pull|merge;    
-tighten up
+tighten up</hr>
+
+2119 been at it.. getting to it  
+started NOTES files; jon duckett html work  
+
+# march112025
+0357: the new 100d of coding;  
+to be joined by chart re-entry;</hr>
+
+been getting it in all over the place;  
+adding to noted project;  
+less coding, more text formatizationLOL!;  
