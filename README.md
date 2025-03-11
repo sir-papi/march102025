@@ -25,9 +25,24 @@ been getting it in all over the place;
 adding to noted project;  
 less coding, more text formatizationLOL!;  
 
-used 20m blocks: see [pomodoro](https://www.pomodorotechnique.com/);    
-watching [git scm videos](https://git-scm.com/videos);    
+used 20m blocks: :eyes: [pomodoro](https://www.pomodorotechnique.com/);    
+:tv: [git scm videos](https://git-scm.com/videos);    
 \+ [vscode videos](https://code.visualstudio.com/docs/getstarted/introvideos);   
 
-- [x] jon duckett coding review;
+- :white_check_mark: jon duckett coding review;  
+
+github+command line:  
+:x:failed to combine repositories;  
+- :white_check_mark: was able to add python files via:
+      
+```
+git remote add origin https://github.com/sir-papi/vscode101.git
+git add .
+git commit -m "added python files"
+git branch -M main
+git push -u origin main
+```
+
+
+
   
