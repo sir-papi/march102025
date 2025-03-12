@@ -43,12 +43,14 @@ git commit -m "added python files"
 git branch -M main
 git push -u origin main
 ```
-more formating skill courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+more formating skill: emojis courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md);  
 
-more: jon duckett coding; lists;  
+more jon duckett: coding; lists;  
 - shut shop early
 - hit multiple :mount_fuji::mount_fuji:
 - 🏂 this is my happy place; my 🕉️✖️☮️‼️
+
+# march122025
 
 
   
