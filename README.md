@@ -60,10 +60,14 @@ git push origin main
 git status
 git log --oneline --graph --decorate --all
 ```
-🦾 this chatGPT > GitHub tab‼️  
+🦾 this [chatGPT > GitHub](https://chatgpt.com/share/67d19e0d-1a60-800c-b786-9030ddac5b61) tab‼️  
+
 & i went past the 20m in my [pomodoro](https://www.pomodorotechnique.com/) block;  
+
 on this day3/100: learning functioning of the git|terminal|vscode systems; moreso than actually coding;  
-but im trippin & im💓it.
+but im trippin & im💓it.  
+
+:o: [cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/notes/1/)
 
 
   
