@@ -45,5 +45,10 @@ git push -u origin main
 ```
 more formating skill courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 
+more: jon duckett coding; lists;  
+- shut shop early
+- hit multiple :mount_fuji::mount_fuji:
+- 🏂 this is my happy place; my 🕉️✖️☮️‼️
+
 
   
