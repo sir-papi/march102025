@@ -43,12 +43,27 @@ git commit -m "added python files"
 git branch -M main
 git push -u origin main
 ```
-more formating skill courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+more formating skill: emojis courtesy of [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md);  
 
-more: jon duckett coding; lists;  
+more jon duckett: coding; lists;  
 - shut shop early
 - hit multiple :mount_fuji::mount_fuji:
 - 🏂 this is my happy place; my 🕉️✖️☮️‼️
+
+# march122025
+/hello-world: commit; pull; merge; push
+```
+cd documents
+git clone https://github.com/sir-papi/hello-world.git
+cd hello-world
+git push origin main
+git status
+git log --oneline --graph --decorate --all
+```
+🦾 this chatGPT > GitHub tab‼️  
+& i went past the 20m in my [pomodoro](https://www.pomodorotechnique.com/) block;  
+on this day3/100: learning functioning of the git|terminal|vscode systems; moreso than actually coding;  
+but im trippin & im💓it.
 
 
   
