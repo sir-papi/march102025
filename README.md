@@ -69,5 +69,43 @@ but im trippin & im💓it.
 
 :o: [cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/notes/1/)
 
+# march132025
+day4/100 #100daysofcode  
 
-  
+performed pull+merge here;  
+
+- ⭕ push `march102025`
+- ⭕ find old GitHub acct
+
+working on chatGPT problem set: basic HTML structure;
+- :white_check_mark: created `problems.html` w/ structure specifications;
+- :white_check_mark: created a GitHub repository for `problems.html` and future problem set challenges;
+- :white_check_mark: created repository: `jason-martin`;
+- [ ] add README file for `jason-martin`;  
+
+**summary of commands**  
+used to set up Git repository on my local machine; add (and commit🤔) HTML file; link local repository to GitHub; push to GitHub;
+```
+cd 13march2025
+git init
+git add problems.html
+git commit -m "initial commit: added problems.html; for chatGPT problem set"
+git remote add origin https://github.com/sir-papi/jason-martin.git
+git push -u origin main
+```
+made changes to `problems.html` so i followed thru w/  
+```
+git status
+git add problems.html
+git status
+git commit -m "updated problems.html"
+git status
+git push origin main
+git status
+```
+- [x] submit to chatGPT :white_check_mark:  
+**chatGPT:** I’ve now checked the file `problems.html` in your GitHub repository (https://github.com/sir-papi/jason-martin). 
+Your `problems.html` file in the GitHub repository meets all the requirements of the problem set you were assigned. Everything is in place:
+
+**sir papi:** *hey hey hey hey hey hey hey*
+:trophy::trophy::trophy:
