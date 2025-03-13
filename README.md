@@ -93,4 +93,19 @@ git commit -m "initial commit: added problems.html; for chatGPT problem set"
 git remote add origin https://github.com/sir-papi/jason-martin.git
 git push -u origin main
 ```
-- [ ] submit to chatGPT 
+made changes to `problems.html` so i followed thru w/  
+```
+git status
+git add problems.html
+git status
+git commit -m "updated problems.html"
+git status
+git push origin main
+git status
+```
+- [x] submit to chatGPT :white_check_mark:  
+**chatGPT:** I’ve now checked the file `problems.html` in your GitHub repository (https://github.com/sir-papi/jason-martin). 
+Your `problems.html` file in the GitHub repository meets all the requirements of the problem set you were assigned. Everything is in place:
+
+**sir papi:** *hey hey hey hey hey hey hey*
+:trophy::trophy::trophy:
