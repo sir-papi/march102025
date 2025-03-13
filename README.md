@@ -109,3 +109,8 @@ Your `problems.html` file in the GitHub repository meets all the requirements of
 
 **sir papi:** *hey hey hey hey hey hey hey*
 :trophy::trophy::trophy:
+
+work log: html source code; to vscode; white rabbit; saved on local dir; played with it in chrome; requires⭕️:
+
+ add [ ] commit pull merge push
+ ⁉️ tables.html
