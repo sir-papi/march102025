@@ -69,5 +69,8 @@ but im trippin & im💓it.
 
 :o: [cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/notes/1/)
 
-
+work log: html source code; to vscode; white rabbit; saved on local dir; played with it in chrome; 
+requires⭕️: 
+- [ ] add [ ] commit pull merge push
+- [ ] ⁉️ tables.html
   
