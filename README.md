@@ -77,4 +77,20 @@ performed pull+merge here;
 - ⭕ push `march102025`
 - ⭕ find old GitHub acct
 
-  
+working on chatGPT problem set: basic HTML structure;
+- :white_check_mark: created `problems.html` w/ structure specifications;
+- :white_check_mark: created a GitHub repository for `problems.html` and future problem set challenges;
+- :white_check_mark: created repository: `jason-martin`;
+- [ ] add README file for `jason-martin`;  
+
+**summary of commands**  
+used to set up Git repository on my local machine; add (and commit🤔) HTML file; link local repository to GitHub; push to GitHub;
+```
+cd 13march2025
+git init
+git add problems.html
+git commit -m "initial commit: added problems.html; for chatGPT problem set"
+git remote add origin https://github.com/sir-papi/jason-martin.git
+git push -u origin main
+```
+- [ ] submit to chatGPT 
