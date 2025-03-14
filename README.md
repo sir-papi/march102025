@@ -137,8 +137,18 @@ Create an HTML form that collects the following information:*
 •	A submit button that says “Submit”
 •	Use &lt;form&gt;, &lt;input&gt;, &lt;select&gt;, &lt;option&gt;, and &lt;button&gt; tags.*  
 
-- **chatGPT:** *Conclusion:*  
+- **chatGPT:** *[Conclusion](https://chatgpt.com/share/67d4457c-4390-800c-80d2-0a0cf3175d6c):*  
   *The `forms.html` file meets all the specified criteria. The form is well-structured, collecting the necessary information with the correct HTML elements. No further modifications are necessary.*
+- also got advice for improvements
+
+:white_check_mark: `tables.html` submission to chatGPT  
+- :white_check_mark: [tweaked it](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740)
+- shout out  [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s)
+- funerals
+- the remembrance of death
+
+
+
 
 
 
