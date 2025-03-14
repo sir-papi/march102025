@@ -146,8 +146,12 @@ Create an HTML form that collects the following information:*
 - shout out  [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s)
 - funerals
 - the remembrance of death
-- :x:[problems](file:///Users/apple/Documents/13march2025/problems.html):o:
-- may still be a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html) tho
+
+:o:
+:x:[problems](file:///Users/apple/Documents/13march2025/problems.html):o: is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html) tho
+- [ ] link directly to site❗️❗️
+- [ ] html ssmantics
+- [ ] complete problem set
 
 
 
