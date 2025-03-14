@@ -158,7 +158,9 @@ Create an HTML form that collects the following information:*
 :o: :o: :o:  
 - [ ] `problems.html` is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html)
 - [ ] [link](https://raw.githubusercontent.com/sir-papi/jason-martin/main/problems.html) it directly to site :x:
-- [ ] html semantics
+- [x] html semantics
+- done + pushed :trophy:
+- :trophy: submitted to [chatGPT](https://chatgpt.com/share/67d497a0-05e4-800c-9dfa-07f860de189c) :white_check_mark:
 - [ ] complete problem set
 
 
