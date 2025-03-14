@@ -110,7 +110,53 @@ Your `problems.html` file in the GitHub repository meets all the requirements of
 **sir papi:** *hey hey hey hey hey hey hey*
 :trophy::trophy::trophy:
 
-work log: html source code; to vscode; white rabbit; saved on local dir; played with it in chrome; requires⭕️:
+work log became html source code `random pwd.html`:  
+to vscode; :rabbit2:; saved on local dir; played:rabbit2: with it in chrome; ~requires~:o::  
+- [x] add :white_check_mark: commit :white_check_mark: pull :x: merge :x: push :white_check_mark:
+- [x] `forms.html`
+- [x] `tables.html`
 
- add [ ] commit pull merge push
- ⁉️ tables.html
+vscode: **messy** work; ➕ 
+```
+13march2025 % ls
+% git add .
+% git status
+% git commit -m "adding other problem set files: forms, tables, p shit"
+% git status
+% git push
+% git status
+```
+:white_check_mark: submission to chatGPT  
+
+*pleasee check the file: `forms.html` in the [jason-martin](https://github.com/sir-papi/jason-martin.git) repository to ensure it meets these criteria:  
+Create an HTML form that collects the following information:*
+*•     Name (Text input)
+•	Email (Email input)
+•	Favorite programming language (Drop-down list)
+•	A checkbox asking if the user agrees to terms and conditions
+•	A submit button that says “Submit”
+•	Use &lt;form&gt;, &lt;input&gt;, &lt;select&gt;, &lt;option&gt;, and &lt;button&gt; tags.*  
+
+- **chatGPT:** *[Conclusion](https://chatgpt.com/share/67d4457c-4390-800c-80d2-0a0cf3175d6c):*  
+  *The `forms.html` file meets all the specified criteria. The form is well-structured, collecting the necessary information with the correct HTML elements. No further modifications are necessary.*
+- also got advice for improvements
+
+:white_check_mark: `tables.html` submission to chatGPT  
+- :white_check_mark: [tweaked it](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740)
+- shout out  [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s)
+- funerals
+- the remembrance of death
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
