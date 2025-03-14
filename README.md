@@ -113,6 +113,10 @@ Your `problems.html` file in the GitHub repository meets all the requirements of
 
 work log became html source code `random pwd.html`:  
 to vscode; :rabbit2:; saved on local dir; played:rabbit2: with it in chrome;  
+
+# march142025
+5/100  
+
 - [x] `forms.html`
 - [x] `tables.html`
 - [x] ~requires~  
@@ -144,9 +148,12 @@ Create an HTML form that collects the following information:*
   *The `forms.html` file meets all the specified criteria. The form is well-structured, collecting the necessary information with the correct HTML elements. No further modifications are necessary.*
 - also got advice for improvements
 
+
+
 `tables.html`  
 :white_check_mark: submission to chatGPT  
 - [**chatGPT:**](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740) :white_check_mark: tweaked it; shout out [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s); funerals; the remembrance of death;
+
 
 :o: :o: :o:  
 - [ ] `problems.html` is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html)
