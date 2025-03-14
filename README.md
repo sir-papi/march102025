@@ -83,8 +83,6 @@ working on chatGPT problem set: basic HTML structure;
 - :white_check_mark: created repository: `jason-martin`;
 - [ ] add README file for `jason-martin`;  
 
-**summary of commands**  
-used to set up Git repository on my local machine; add (and commit🤔) HTML file; link local repository to GitHub; push to GitHub;
 ```
 cd 13march2025
 git init
@@ -93,6 +91,9 @@ git commit -m "initial commit: added problems.html; for chatGPT problem set"
 git remote add origin https://github.com/sir-papi/jason-martin.git
 git push -u origin main
 ```
+**summary of commands**  
+used to set up Git repository on my local machine; add (and commit🤔) HTML file; link local repository to GitHub; push to GitHub;  
+
 made changes to `problems.html` so i followed thru w/  
 ```
 git status
@@ -106,15 +107,20 @@ git status
 - [x] submit to chatGPT :white_check_mark:  
 **chatGPT:** I’ve now checked the file `problems.html` in your GitHub repository (https://github.com/sir-papi/jason-martin). 
 Your `problems.html` file in the GitHub repository meets all the requirements of the problem set you were assigned. Everything is in place:
-
+:trophy::trophy::trophy:
 **sir papi:** *hey hey hey hey hey hey hey*
 :trophy::trophy::trophy:
 
 work log became html source code `random pwd.html`:  
-to vscode; :rabbit2:; saved on local dir; played:rabbit2: with it in chrome; ~requires~:o::  
-- [x] add :white_check_mark: commit :white_check_mark: pull :x: merge :x: push :white_check_mark:
+to vscode; :rabbit2:; saved on local dir; played:rabbit2: with it in chrome;  
+
+# march142025
+5/100  
+
 - [x] `forms.html`
 - [x] `tables.html`
+- [x] ~requires~  
+add :white_check_mark: commit :white_check_mark: pull :x: merge :x: push :white_check_mark:
 
 vscode: **messy** work; ➕ 
 ```
@@ -126,8 +132,8 @@ vscode: **messy** work; ➕
 % git push
 % git status
 ```
+`forms.html`  
 :white_check_mark: submission to chatGPT  
-
 *pleasee check the file: `forms.html` in the [jason-martin](https://github.com/sir-papi/jason-martin.git) repository to ensure it meets these criteria:  
 Create an HTML form that collects the following information:*
 *•     Name (Text input)
@@ -137,20 +143,22 @@ Create an HTML form that collects the following information:*
 •	A submit button that says “Submit”
 •	Use &lt;form&gt;, &lt;input&gt;, &lt;select&gt;, &lt;option&gt;, and &lt;button&gt; tags.*  
 
-- **chatGPT:** *[Conclusion](https://chatgpt.com/share/67d4457c-4390-800c-80d2-0a0cf3175d6c):*  
+- **chatGPT:**  
+  *[Conclusion](https://chatgpt.com/share/67d4457c-4390-800c-80d2-0a0cf3175d6c):*
   *The `forms.html` file meets all the specified criteria. The form is well-structured, collecting the necessary information with the correct HTML elements. No further modifications are necessary.*
 - also got advice for improvements
 
-:white_check_mark: `tables.html` submission to chatGPT  
-- :white_check_mark: [tweaked it](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740)
-- shout out  [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s)
-- funerals
-- the remembrance of death
 
-:o:
-:x:[problems](file:///Users/apple/Documents/13march2025/problems.html):o: is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html) tho
-- [ ] link directly to site❗️❗️
-- [ ] html ssmantics
+
+`tables.html`  
+:white_check_mark: submission to chatGPT  
+- [**chatGPT:**](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740) :white_check_mark: tweaked it; shout out [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s); funerals; the remembrance of death;
+
+
+:o: :o: :o:  
+- [ ] `problems.html` is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html)
+- [ ] [link](https://raw.githubusercontent.com/sir-papi/jason-martin/main/problems.html) it directly to site :x:
+- [ ] html semantics
 - [ ] complete problem set
 
 
