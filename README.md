@@ -107,6 +107,7 @@ git status
 **chatGPT:** I’ve now checked the file `problems.html` in your GitHub repository (https://github.com/sir-papi/jason-martin). 
 Your `problems.html` file in the GitHub repository meets all the requirements of the problem set you were assigned. Everything is in place:
 
+:trophy::trophy::trophy:
 **sir papi:** *hey hey hey hey hey hey hey*
 :trophy::trophy::trophy:
 
@@ -126,6 +127,7 @@ vscode: **messy** work; ➕
 % git push
 % git status
 ```
+`forms.html`  
 :white_check_mark: submission to chatGPT  
 
 *pleasee check the file: `forms.html` in the [jason-martin](https://github.com/sir-papi/jason-martin.git) repository to ensure it meets these criteria:  
@@ -141,7 +143,8 @@ Create an HTML form that collects the following information:*
   *The `forms.html` file meets all the specified criteria. The form is well-structured, collecting the necessary information with the correct HTML elements. No further modifications are necessary.*
 - also got advice for improvements
 
-:white_check_mark: `tables.html` submission to chatGPT  
+`tables.html`  
+:white_check_mark: submission to chatGPT  
 - :white_check_mark: [tweaked it](https://chatgpt.com/share/67d447bc-9744-800c-bf43-4ec443ccb740)
 - shout out  [russell](https://www.youtube.com/watch?v=dle1UaoQTUI&t=4426s)
 - funerals
