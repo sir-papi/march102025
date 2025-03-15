@@ -163,7 +163,9 @@ Create an HTML form that collects the following information:*
 - :trophy: submitted to [chatGPT](https://chatgpt.com/share/67d497a0-05e4-800c-9dfa-07f860de189c) :white_check_mark:
 - [ ] complete problem set
 
-
+new mess on bsl + city hall iftar  
+# march142025
+6/100 [#100daysofcode](https://x.com/dthompsondev/status/1612834153464213504?s=46&t=3UigHj2lKXugh1m91mzN5w)
 
 
 
