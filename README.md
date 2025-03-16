@@ -178,13 +178,19 @@ new mess on bsl + city hall iftar
 7/100  
 
 0142:
-- [ ] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
-- [ ] freecodecamp
+- [x] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
+- [x] freecodecamp
 - [ ] github pages for 3.14 `problems.html` **mess**
 - [x] :computer: :bookmark_tabs: [reading](https://thesystemsthinker.com/)
 - [x] another beautiful day: spiritual; grateful;
 - [x] systematic: elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
 - [X] wow :heavy_exclamation_mark::heavy_exclamation_mark:
+
+Started freecodecamp  
+- [x] redoing `code`
+- [ ] edits on sp + pull
+- [x] pushed everything jason-martin  
+- [ ] new file structure ?
 
 
 
