@@ -164,7 +164,7 @@ Create an HTML form that collects the following information:*
 - [ ] complete problem set
 
 new mess on bsl + city hall iftar  
-# march142025
+# march152025
 6/100 [#100daysofcode](https://x.com/dthompsondev/status/1612834153464213504?s=46&t=3UigHj2lKXugh1m91mzN5w)
 
 `day6of100` :o: working on coding  
@@ -172,9 +172,19 @@ new mess on bsl + city hall iftar
 **git**  
 - [x] add :heavy_plus_sign: commit 
 - [ ] **--help** :heavy_exclamation_mark::heavy_exclamation_mark:
-- [ ] push|pull :o: which one :question:
+- [x] **push**|pull :o: which one :question: :white_check_mark:
 
+# march162025
+7/100  
 
+0142:
+- [ ] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
+- [ ] freecodecamp
+- [ ] github pages for 3.14 `problems.html` **mess**
+- [x] :computer: :bookmark_tabs: [reading](https://thesystemsthinker.com/)
+- [x] another beautiful day: spiritual; grateful;
+- [x] systematic: elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
+- [X] wow :heavy_exclamation_mark::heavy_exclamation_mark:
 
 
 
