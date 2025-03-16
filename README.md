@@ -183,13 +183,20 @@ new mess on bsl + city hall iftar
 - [ ] github pages for 3.14 `problems.html` **mess**
 - [x] :computer: :bookmark_tabs: [reading](https://thesystemsthinker.com/)
 - [x] another beautiful day: spiritual; grateful;
-- [x] systematic: elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
+- [x] [systematic](https://tinyurl.commt9cy9h8): elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
 - [X] wow :heavy_exclamation_mark::heavy_exclamation_mark:
 
 Started freecodecamp  
 - [x] redoing `code`
 - [ ] edits on sp + pull
-- [x] pushed everything jason-martin  
+```
+git pull
+```
+- [x] pushed everything jason-martin
+```
+git commit -m "lot going on including a new folder"
+git push
+```
 - [ ] new file structure ?
 
 
