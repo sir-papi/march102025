@@ -188,10 +188,11 @@ new mess on bsl + city hall iftar
 
 Started freecodecamp  
 - [x] redoing `code`
-- [ ] edits on sp + pull
+- [x] edits on sp + pull
 ```
 git pull
 ```
+git pull was originally not working; the edits branch needed to be merged w/main; once main was updated `git pull` immediately updated local `freecodecamp.html` in vscode
 - [x] pushed everything jason-martin
 ```
 git commit -m "lot going on including a new folder"
