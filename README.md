@@ -206,7 +206,7 @@ git push
 # march172025
 8/100 msced
 
-- [ ] cs50 assignment 0
+- [x] submitted cs50 assignment 0
 - [x] linked cs50 to [github](https://github.com/sir-papi)
 - [x] file maintenace: new dir in 'vscode101` + `jason-martin`
 ```
@@ -221,7 +221,9 @@ git commit -m "file maintenance. new code for random pwd"
 git commit -m "file maintenance" (moved `tables.html`)
 git push
 ```
-
+- [x] saved assignment to `\vscode\cs50`
+- [ ] cs50 assignment 1
+- [ ] resume freecodecamp: responsive web design;
 
 
 
