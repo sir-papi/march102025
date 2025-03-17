@@ -226,7 +226,8 @@ git push
 - [x] resume freecodecamp: responsive web design;
 - [x] completed basic css;
 - [ ] page source ?
-- [x] file maintenance; light edits;
+- [x] file maintenance; light edits;  
+:parking: unicode [character](https://www.compart.com/en/unicode/U+29EA) sets
 
 
 
