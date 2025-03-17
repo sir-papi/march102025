@@ -178,13 +178,30 @@ new mess on bsl + city hall iftar
 7/100  
 
 0142:
-- [ ] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
-- [ ] freecodecamp
+- [x] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
+- [x] freecodecamp
 - [ ] github pages for 3.14 `problems.html` **mess**
 - [x] :computer: :bookmark_tabs: [reading](https://thesystemsthinker.com/)
 - [x] another beautiful day: spiritual; grateful;
-- [x] systematic: elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
+- [x] [systematic](https://tinyurl.commt9cy9h8): elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
 - [X] wow :heavy_exclamation_mark::heavy_exclamation_mark:
+
+Started freecodecamp  
+- [x] redoing `code`
+- [x] edits on sp + pull
+```
+git pull
+```
+git pull was originally not working; the edits branch needed to be merged w/main; once main was updated `git pull` immediately updated local `freecodecamp.html` in vscode
+- [x] pushed everything jason-martin
+```
+git commit -m "lot going on including a new folder"
+git push
+```
+- [ ] new file structure ?
+- [x] completed 1st freecodecamp project
+- [x] created my own site `freecodecamp.html` located in [jason-martin](https://github.com/sir-papi/jason-martin.git)
+- [x] after `git push` edits on remote (repository) and `git pull` back to vscode
 
 
 
