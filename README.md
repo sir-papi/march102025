@@ -201,7 +201,26 @@ git push
 - [ ] new file structure ?
 - [x] completed 1st freecodecamp project
 - [x] created my own site `freecodecamp.html` located in [jason-martin](https://github.com/sir-papi/jason-martin.git)
-- [x] after `git push` edits on remote (repository) and `git pull` back to vscode
+- [x] after `git push` edits on remote (repository) and `git pull` back to vscode 
+
+# march172025
+8/100 msced
+
+- [ ] cs50 assignment 0
+- [x] linked cs50 to [github](https://github.com/sir-papi)
+- [x] file maintenace: new dir in 'vscode101` + `jason-martin`
+```
+% cd vscode101
+git add .
+git commit -m "new dir for cs50"
+git push
+% cd 13march2025
+git add .
+git commit -m "file maintenance. new code for random pwd"
+...
+git commit -m "file maintenance" (moved `tables.html`)
+git push
+```
 
 
 
