@@ -223,7 +223,8 @@ git push
 ```
 - [x] saved assignment to `\vscode\cs50`
 - [ ] cs50 assignment 1
-- [ ] resume freecodecamp: responsive web design;
+- [x] resume freecodecamp: responsive web design;
+- [x] completed basic css;
 
 
 
