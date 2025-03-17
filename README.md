@@ -225,6 +225,8 @@ git push
 - [ ] cs50 assignment 1
 - [x] resume freecodecamp: responsive web design;
 - [x] completed basic css;
+- [ ] page source ?
+- [x] file maintenance; light edits;
 
 
 
