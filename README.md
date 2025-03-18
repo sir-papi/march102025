@@ -156,12 +156,12 @@ Create an HTML form that collects the following information:*
 
 
 :o: :o: :o:  
-- [ ] `problems.html` is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html)
+- [ ] `problems.html` is currently a [**mess**](https://github.com/sir-papi/jason-martin/blob/main/problems.html) :o:
 - [ ] [link](https://raw.githubusercontent.com/sir-papi/jason-martin/main/problems.html) it directly to site :x:
 - [x] html semantics
 - done + pushed :trophy:
 - :trophy: submitted to [chatGPT](https://chatgpt.com/share/67d497a0-05e4-800c-9dfa-07f860de189c) :white_check_mark:
-- [ ] complete problem set
+- [ ] complete problem set :o:
 
 new mess on bsl + city hall iftar  
 # march152025
@@ -171,8 +171,8 @@ new mess on bsl + city hall iftar
 
 **git**  
 - [x] add :heavy_plus_sign: commit 
-- [ ] **--help** :heavy_exclamation_mark::heavy_exclamation_mark:
-- [x] **push**|pull :o: which one :question: :white_check_mark:
+- [ ] **--help** :heavy_exclamation_mark::heavy_exclamation_mark: :o:
+- [x] **push**|pull which one :question: :white_check_mark:
 
 # march162025
 7/100  
@@ -180,7 +180,7 @@ new mess on bsl + city hall iftar
 0142:
 - [x] code :heavy_exclamation_mark::heavy_exclamation_mark: + problem sets:o:
 - [x] freecodecamp
-- [ ] github pages for 3.14 `problems.html` **mess**
+- [ ] github pages for 3.14 `problems.html` **mess** :o:
 - [x] :computer: :bookmark_tabs: [reading](https://thesystemsthinker.com/)
 - [x] another beautiful day: spiritual; grateful;
 - [x] [systematic](https://tinyurl.commt9cy9h8): elements :snowboarder::basketball:; social connections; interconnectedness; :o:purpose:question:;
@@ -198,7 +198,7 @@ git pull was originally not working; the edits branch needed to be merged w/main
 git commit -m "lot going on including a new folder"
 git push
 ```
-- [ ] new file structure ?
+- [ ] new file structure ? :o:
 - [x] completed 1st freecodecamp project
 - [x] created my own site `freecodecamp.html` located in [jason-martin](https://github.com/sir-papi/jason-martin.git)
 - [x] after `git push` edits on remote (repository) and `git pull` back to vscode 
@@ -206,7 +206,7 @@ git push
 # march172025
 8/100 msced
 
-- [ ] cs50 assignment 0
+- [x] submitted cs50 assignment 0
 - [x] linked cs50 to [github](https://github.com/sir-papi)
 - [x] file maintenace: new dir in 'vscode101` + `jason-martin`
 ```
@@ -221,11 +221,19 @@ git commit -m "file maintenance. new code for random pwd"
 git commit -m "file maintenance" (moved `tables.html`)
 git push
 ```
+- [x] saved assignment to `\vscode\cs50`
+- [ ] cs50 assignment 1 :o:
+- [x] resume freecodecamp: responsive web design;
+- [x] completed basic css;
+- [ ] page source :o:
+- [x] file maintenance; light edits;  
+:parking: unicode [character](https://www.compart.com/en/unicode/U+29EA) sets
 
+# march182025
+9/100 msced
 
-
-
-
+- [x] completed freecodecamp: css colors;
+- [ ] freecodecamp: command line for beginners; :o:
 
 
 
