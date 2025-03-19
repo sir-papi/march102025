@@ -6,7 +6,7 @@ had created html css js files & added img + folder;
 
 - [ ] workin on a check to see if the ` code ` activates correctly
 - [ ] NOTES sitemap + project
-- [ ] all an aspect of DESIGN_  
+- [ ] all an aspect of DESIGN :white_heart:  
 
 ~still havent~ figured out hard return ~wtf~  
 
@@ -225,7 +225,7 @@ git push
 - [ ] cs50 assignment 1 :o:
 - [x] resume freecodecamp: responsive web design;
 - [x] completed basic css;
-- [ ] page source :o:
+- [x] page source :o:
 - [x] file maintenance; light edits;  
 :parking: unicode [character](https://www.compart.com/en/unicode/U+29EA) sets
 
@@ -233,7 +233,26 @@ git push
 9/100 msced
 
 - [x] completed freecodecamp: css colors;
-- [ ] freecodecamp: command line for beginners; :o:
+- [x] freecodecamp: command line for beginners; :o:
+      
+:white_check_mark: whole lotta command line git + dir cleanup w/ some slight edits
+
+# march192025
+10/100 msced .: r o l l i n :.
+
+- [x] completed freecodecamp: responsive web design; registration form;
+- [x] read freecodecamp: command line for beginners; review it :o:
+- [ ] cs50 assignment 1 video + notes
+- [ ] cs50 assignment 1 completion + submission
+- [ ] page source is official! but: why did i think you can enter the script as url tho :question::o:
+
+      w o w . . . everything is spiritual
+- [ ] freecodecamp: first certification project; survey form;
+- [ ] mindmap + wireframe; **system**; framework; **design** :white_heart:
+- [ ] add to NOTES: todays artist inspiration [allleuu](https://tinyurl.com/3s6dm22v)
+
+:checkered_flag: working on  شهيزي :om:
+
 
 
 
