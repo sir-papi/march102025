@@ -248,10 +248,23 @@ git push
 
       w o w . . . everything is spiritual
 - [ ] freecodecamp: first certification project; survey form;
-- [ ] mindmap + wireframe; **system**; framework; **design** :white_heart:
+- [ ] mindmap + wireframe; **system**; framework; **design** :white_heart: :o:
 - [ ] add to NOTES: todays artist inspiration [allleuu](https://tinyurl.com/3s6dm22v)
 
 :checkered_flag: working on  شهيزي :om:
+
+# march202025
+11/100
+
+working...  
+long day!. . .  
+- [x] fcc survey form wireframe + mind map
+- [ ] cs50 video struggles
+
+:heavy_exclamation_mark: fcuked around w/ project all day all nite (0505 rtfn)  
+html :heavy_check_mark: css styling :o: can be a chore  
+-- alhamdulilaah likulli haal --
+
 
 
 
