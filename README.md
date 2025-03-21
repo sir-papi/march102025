@@ -275,9 +275,9 @@ challenge creates balance :exclamation:
 - [ ] :o: im gone get it :heavy_exclamation_mark:
 - [x] 20m pomodoro :parking: my way thru it all
 - [x] :ab: ayse; :o:[design](https://thecreativelife.net/how-to-design-a-life/) :white_heart:
-- [ ] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
+- [x] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
 - [ ] get some damn :zzz: :exclamation:
-- [ ] saucha
+- [x] saucha
 - [ ] :lotus_position_man:
 - [ ] :snowboarder:
 - [ ] ..: يوم الجمعة :.. :signal_strength:
@@ -387,7 +387,13 @@ W O W :exclamation: :heavy_exclamation_mark:
     https://docs.brew.sh
 - [x] NOTES activated - yg tech new level; @ the baccarat
 - [x] oh Brother !
-0313 shouts to the D... but i went like 60m no pomodoro :parking: fcukin wit this... but i had to break from coding ... now read :book: & take it down :bed: to the point this not even getting proofed its over wit :peace_sign: 
+0313 shouts to the D... but i went like 60m no pomodoro :parking: fcukin wit this... but i had to break from coding ... now read :book: & take it down :bed: to the point this not even getting proofed its over wit :peace_sign:
+
+no action all day.
+slept thru the sahoor.  
+no activity all day.  
+(1904)  
+git to it.
 
 
 
