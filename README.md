@@ -284,6 +284,8 @@ challenge creates balance :exclamation:
 - [ ] thats my :trophy: :wink:
 - [ ] :parking: $ ₽ D Ř  |  $ ₽ ¥  ...  whats my :yen:
 - [ ] (2) 20m :parking: trynna git wit new NOTES repo :dizzy_face: :dizzy: :thinking: :roll_eyes:
+
+after all this ▶️ still no files in `sir-papi/NOTES` wtf      
 ```
 
 ``` 
