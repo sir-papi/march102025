@@ -265,6 +265,25 @@ long day!. . .
 html :heavy_check_mark: css styling :o: can be a chore  
 -- alhamdulilaah likulli haal --
 
+# march212025
+12/100
+
+0100: didnt get much any after yesterday am  
+survey form css: still tweaking; *facepalm  
+couldve just brodied sample or chatGPT my way thru it all ... wheres the fun in that tho  
+challenge creates balance :!:  
+- [ ] :o: im gone get it :!!:
+- [ ] 20m pomodoro :parking: my way thru it all
+- [ ] :ab: ayse; [design](https://thecreativelife.net/how-to-design-a-life/) :white_heart:
+- [ ] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
+- [ ] get some damn :zzz: :!:
+- [ ] saucha
+- [ ] :yoga:
+- [ ] :snowboarder:
+- [ ] ..: يوم الجمعة :.. :signal_strength:
+- [ ] thats my :trophy: :wink:
+- [ ]  :parking: $₽DŘ | $₽¥ ... whats my :yen:
+
 
 
 
