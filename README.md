@@ -274,7 +274,7 @@ couldve just brodied sample or chatGPT my way thru it all ... wheres the fun in 
 challenge creates balance :exclamation:  
 - [ ] :o: im gone get it :heavy_exclamation_mark:
 - [x] 20m pomodoro :parking: my way thru it all
-- [x] :ab: ayse; [design](https://thecreativelife.net/how-to-design-a-life/) :white_heart:
+- [x] :ab: ayse; :o:[design](https://thecreativelife.net/how-to-design-a-life/) :white_heart:
 - [ ] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
 - [ ] get some damn :zzz: :exclamation:
 - [ ] saucha
@@ -283,12 +283,111 @@ challenge creates balance :exclamation:
 - [ ] ..: يوم الجمعة :.. :signal_strength:
 - [ ] thats my :trophy: :wink:
 - [ ] :parking: $ ₽ D Ř  |  $ ₽ ¥  ...  whats my :yen:
-- [ ] (2) 20m :parking: trynna git wit new NOTES repo :dizzy_face: :dizzy: :thinking: :roll_eyes:
+- [x] (2) 20m :parking: trynna git wit new NOTES repo :dizzy_face: :dizzy: :thinking: :roll_eyes:
 
 after all this ▶️ still no files in `sir-papi/NOTES` wtf      
 ```
+% cd NOTES
+git status
+git add .
+git commit -m "new NOTES; missing adds ie allleuu"
+git push
+```
+:x: fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
 
-``` 
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+```
+git remote add NOTES https://github.com/sir-papi/NOTES
+git push NOTES
+```
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream NOTES main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+```
+git push --set-upstream NOTES main
+```
+fatal: 'NOTES' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+git init
+```
+Initialized empty Git repository in /Users/apple/Documents/NOTES/.git/
+**i see it now** they made a local repo :roll_eyes:
+```
+echo "# NOTES" >> README.md
+echo "# NOTES" >> allleuu.html
+git add . git status
+git commit -m "new NOTES repo; this the real project!"
+git push
+```
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+:laughing:  
+```
+git remote add NOTES /Users/apple/Documents/NOTES/.git/
+```
+:smh: man i did all the same shit AGAIN... **still lost** :dazed+confused:
+```
+git push --set-upstream NOTES main
+git init
+gh repo create NOTES --public --description "My notes repository"
+```
+zsh: command not found: gh
+```
+brew install gh
+```
+zsh: command not found: brew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zshrc
+source ~/.zshrc
+```
+/Users/apple/.zshrc:1: no such file or directory: /opt/homebrew/bin/brew
+```
+brew --version
+brew install gh
+gh repo create NOTES --public --description "NOTES repo | the real project | the final boss | if...then white hat"
+git add
+git commit -m "initial NOTES repo commit"
+git push
+git remote add origin https://github.com/sir-papi/NOTES.git
+git status
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+:trophy:  
+W O W :exclamation: :heavy_exclamation_mark:
+==> Next steps:
+- Run these commands in your terminal to add Homebrew to your PATH:
+    echo >> /Users/apple/.zprofile
+    echo 'eval "$(/usr/local/bin/brew shellenv)"' >> /Users/apple/.zprofile
+    eval "$(/usr/local/bin/brew shellenv)"
+- Run brew help to get started
+- Further documentation:
+    https://docs.brew.sh
+- [x] NOTES activated - yg tech new level; @ the baccarat
+- [x] oh Brother !
+0313 shouts to the D... but i went like 60m no pomodoro :parking: fcukin wit this... but i had to break from coding ... now read :book: & take it down :bed: to the point this not even getting proofed its over wit :peace_sign: 
 
 
 
