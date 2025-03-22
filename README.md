@@ -247,8 +247,8 @@ git push
 - [ ] page source is official! but: why did i think you can enter the script as url tho :question::o:
 
       w o w . . . everything is spiritual
-- [ ] freecodecamp: first certification project; survey form;
-- [ ] mindmap + wireframe; **system**; framework; **design** :white_heart: :o:
+- [x] freecodecamp: first certification project; survey form;
+- [x] mindmap + wireframe; **system**; framework; **design** :white_heart: :o:
 - [ ] add to NOTES: todays artist inspiration [allleuu](https://tinyurl.com/3s6dm22v)
 
 :checkered_flag: working on  شهيزي :om:
@@ -275,9 +275,9 @@ challenge creates balance :exclamation:
 - [ ] :o: im gone get it :heavy_exclamation_mark:
 - [x] 20m pomodoro :parking: my way thru it all
 - [x] :ab: ayse; :o:[design](https://thecreativelife.net/how-to-design-a-life/) :white_heart:
-- [ ] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
+- [x] :book: [thinking in systems](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf))
 - [ ] get some damn :zzz: :exclamation:
-- [ ] saucha
+- [x] saucha
 - [ ] :lotus_position_man:
 - [ ] :snowboarder:
 - [ ] ..: يوم الجمعة :.. :signal_strength:
@@ -387,7 +387,24 @@ W O W :exclamation: :heavy_exclamation_mark:
     https://docs.brew.sh
 - [x] NOTES activated - yg tech new level; @ the baccarat
 - [x] oh Brother !
-0313 shouts to the D... but i went like 60m no pomodoro :parking: fcukin wit this... but i had to break from coding ... now read :book: & take it down :bed: to the point this not even getting proofed its over wit :peace_sign: 
+0313 shouts to the D... but i went like 60m no pomodoro :parking: fcukin wit this... but i had to break from coding ... now read :book: & take it down :bed: to the point this not even getting proofed its over wit :peace_sign:
+
+no action all day.
+slept thru the sahoor.  
+no activity all day.  
+(1904)  
+git to it.
+
+# march212025 sadderday
+13/100
+
+never really got to it last nite.  
+salaat iftaar salaat sleep took precedence.  
+completed fcc work today tho :trophy:
+- [x] bish i did that
+- [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly:
+- [ ] more fcc
+- [ ] cs50 :grey_exclamation: :exclamation:
 
 
 
