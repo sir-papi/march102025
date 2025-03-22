@@ -400,9 +400,9 @@ git to it.
 
 never really got to it last nite.  
 salaat iftaar salaat sleep took precedence.  
-completed fcc work today tho :trophy:
+:exclamation: :white_check_mark: completed fcc work today tho :trophy:
 - [x] bish i did that
-- [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly:
+- [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly: +techwithtris codepen
 - [ ] more fcc
 - [ ] cs50 :grey_exclamation: :exclamation:
 
