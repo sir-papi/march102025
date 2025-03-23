@@ -1,4 +1,4 @@
-# march102025
+# march102025 id="top"
 work: html; css; clones; branches; files; commits; pulls; merges;</br>
 
 @1830 i pushed vscode randomness to a new repository;</br>
@@ -405,7 +405,7 @@ salaat iftaar salaat sleep took precedence.
 - [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly: +[techwithtris](https://codepen.io/techwithtris)
 - [x] more fcc
 - [ ] cs50 :grey_exclamation: :exclamation:
-- [ ] complete: fcc css box method; rothko; pending: css flexbox; building photo gallery :o:
+- [x] complete: fcc css box method; rothko; pending: css flexbox; building photo gallery :o:
 - [ ] confusion on remote/local branch merges/push/pull
 - [ ] :parking: on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
 
@@ -413,6 +413,11 @@ salaat iftaar salaat sleep took precedence.
 13/100
 
 - [ ] 🚫🚬
+- [x] :parking: everything but :book:
+- [x] css flexbox
+- [x] :trophy:
+- [ ] can you jump to [top](#top) :question:
+- [ ] read الكتاب
 
 
 
