@@ -414,10 +414,13 @@ salaat iftaar salaat sleep took precedence.
 
 - [ ] 🚫🚬
 - [x] :parking: everything but :book:
-- [x] css flexbox
+- [x] css flexbox 
 - [x] :trophy:
 - [ ] can you jump to [top](#top) :question:
-- [x] read الكتاب
+- [x] read الكتاب :trophy:
+- [x] reviewing: fcc command-line-for-beginners ☑️
+- [ ] cli: man zsh :o:
+- [ ] cli script for new repository :thinking:
 
 
 
