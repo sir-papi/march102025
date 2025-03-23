@@ -402,12 +402,17 @@ never really got to it last nite.
 salaat iftaar salaat sleep took precedence.  
 :exclamation: :white_check_mark: completed fcc work today tho :trophy:
 - [x] bish i did that
-- [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly: +techwithtris codepen
+- [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly: +[techwithtris](https://codepen.io/techwithtris)
 - [x] more fcc
 - [ ] cs50 :grey_exclamation: :exclamation:
 - [ ] complete: fcc css box method; rothko; pending: css flexbox; building photo gallery :o:
 - [ ] confusion on remote/local branch merges/push/pull
-- [ ] :parking; on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
+- [ ] :parking: on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
+
+# march232025 🌄day
+13/100
+
+- [ ] 🚫🚬
 
 
 
