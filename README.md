@@ -395,7 +395,7 @@ no activity all day.
 (1904)  
 git to it.
 
-# march212025 sadderday
+# march222025 sadderday
 13/100
 
 never really got to it last nite.  
@@ -403,8 +403,11 @@ salaat iftaar salaat sleep took precedence.
 :exclamation: :white_check_mark: completed fcc work today tho :trophy:
 - [x] bish i did that
 - [ ] learn to design site with a scroll: [see](https://www.butterflyinablizzard.com/) :butterfly: +techwithtris codepen
-- [ ] more fcc
+- [x] more fcc
 - [ ] cs50 :grey_exclamation: :exclamation:
+- [ ] complete: fcc css box method; rothko; pending: css flexbox; building photo gallery :o:
+- [ ] confusion on remote/local branch merges/push/pull
+- [ ] :parking; on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
 
 
 
