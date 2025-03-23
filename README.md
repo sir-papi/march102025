@@ -407,7 +407,7 @@ salaat iftaar salaat sleep took precedence.
 - [ ] cs50 :grey_exclamation: :exclamation:
 - [x] complete: fcc css box method; rothko; pending: css flexbox; building photo gallery :o:
 - [ ] confusion on remote/local branch merges/push/pull
-- [ ] :parking: on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
+- [x] :parking: on css cs50 :weight_lifting_man: :book: :pray: :o: sounds like a lot
 
 # march232025 🌄day
 13/100
@@ -417,7 +417,7 @@ salaat iftaar salaat sleep took precedence.
 - [x] css flexbox
 - [x] :trophy:
 - [ ] can you jump to [top](#top) :question:
-- [ ] read الكتاب
+- [x] read الكتاب
 
 
 
