@@ -422,6 +422,12 @@ salaat iftaar salaat sleep took precedence.
 - [ ] cli: man zsh :o:
 - [ ] cli script for new repository :thinking:
 
+# march242025 monday
+14/100
+
+- [x] complete: css typography; nutrition label :trophy:
+- [ ] cs50 :question::exclamation::question:
+
 
 
 
