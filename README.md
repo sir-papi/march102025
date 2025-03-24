@@ -427,7 +427,17 @@ salaat iftaar salaat sleep took precedence.
 
 - [x] complete: css typography; nutrition label :trophy:
 - [ ] cs50 :question::exclamation::question:
-- [ ] still push/pull issues: readme updated remotely; new repo script add/commit on local :o: how to resolve :question::
+- [x] still push/pull issues: readme updated remotely; new repo script add/commit on local :o: how to resolve :question::
+
+It sounds like you have a situation where:  
+Your README.md file has been updated remotely (on the remote repo).  
+You have added a new directory and committed it locally.  
+You are unable to push or pull due to a conflict.  
+```
+git fetch origin
+git merge origin/main
+git push origin main  # Replace 'main' with your branch name
+```
 
 
 
