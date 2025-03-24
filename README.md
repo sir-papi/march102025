@@ -420,14 +420,14 @@ salaat iftaar salaat sleep took precedence.
 - [x] read الكتاب :trophy:
 - [x] reviewing: fcc command-line-for-beginners ☑️
 - [ ] cli: man zsh :o:
-- [ ] cli script for new repository :thinking:
+- [x] cli script for new repository :thinking: completed by review :o:
 
 # march242025 monday
 14/100
 
 - [x] complete: css typography; nutrition label :trophy:
 - [ ] cs50 :question::exclamation::question:
-
+- [ ] still push/pull issues: readme updated remotely; new repo script add/commit on local :o: how to resolve :question::
 
 
 
