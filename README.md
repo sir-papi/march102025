@@ -447,8 +447,8 @@ git push origin main  # Replace 'main' with your branch name
 - [x] pushed + cleaned code + pulled
 - [ ] mindfulness; activation; stillness; elevation; :pray: :weight_lifting_man: :lotus_position_man: :book:  
 - [ ] design :white_heart: in the :thought_balloon: of a :snowboarder: or **trader**
-- [x] :o: fcc project: tribute page;
-  - [x] who? ~old uzi~ `/Users/apple/vscode101/old coda/hero.html` :question:
+- [x] :trophy: fcc project: tribute page;
+  - [x] ~who? old uzi~ `/Users/apple/vscode101/old coda/hero.html` 
   - [x] wireframe | mindmap | [colors](https://www.color-hex.com/color-palette/33337) :heavy_exclamation_mark:
   - [x] converted [kodone](https://www.youtube.com/watch?v=7TSzvFxkKA4)xuzi to [kodone](https://www.youtube.com/watch?v=87AbvYGzyiE)x[frankocean](https://www.vogue.com/article/frank-ocean-blond-motocross-style)
   - [x] submitted + onto next challenge
