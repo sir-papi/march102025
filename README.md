@@ -439,6 +439,14 @@ git merge origin/main
 git push origin main  # Replace 'main' with your branch name
 ```
 
+# march252025 
+15/100
+
+:trophy: early  
+- [x] css accessibility quiz
+- [x] pushed + cleaned code + pulled
+- [ ] mindfulness; activation; stillness; elevation; :pray: :weight_lifting_man: :lotus_position_man: :book:  
+- [ ] design :white_heart: in the :thought_balloon: of a :snowboarder: or **trader**
 
 
 
