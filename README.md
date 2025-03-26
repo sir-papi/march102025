@@ -453,6 +453,13 @@ git push origin main  # Replace 'main' with your branch name
   - [x] converted [kodone](https://www.youtube.com/watch?v=7TSzvFxkKA4)xuzi to [kodone](https://www.youtube.com/watch?v=87AbvYGzyiE)x[frankocean](https://www.vogue.com/article/frank-ocean-blond-motocross-style)
   - [x] submitted + onto next challenge
 
+# march262025 amsterdamh44
+16/100
+
+- [x] css balance sheet :trophy:
+  - [ ] next challenge
+- [ ] D O  B E T T E R !
+  - [ ] expansion | openness :thought_balloon: :white_heart: :pray: :weight_lifting_man: :lotus_position_man: :book: :heavy_exclamation_mark:
 
 
 
