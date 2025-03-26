@@ -458,8 +458,10 @@ git push origin main  # Replace 'main' with your branch name
 
 - [x] css balance sheet :trophy:
   - [ ] next challenge
+  - [x] 30m fcc python code examples: variables; strings; 'hello sir papi'
 - [ ] D O  B E T T E R !
   - [ ] expansion | openness :thought_balloon: :white_heart: :pray: :weight_lifting_man: :lotus_position_man: :book: :heavy_exclamation_mark:
+  - [ ] 
 
 
 
