@@ -468,11 +468,14 @@ git push origin main  # Replace 'main' with your branch name
 
 :trophy: early :white_check_mark: fcc intermediate css: cat painting;  
 `/Users/apple/Documents/13march2025/freecodecamp/cat painting/coleman.html`  
-  - [x] :trophy: next challenge: :musical_keyboard: fcc (project)
+  - [x] :trophy: next challenge: :musical_keyboard: fcc `.../freecodecamp/grand piano/piano.html`
+  - [ ] change that to miss beverly; get .txt
   - [ ] 1/3 remaining fcc requireds
 - [ ] M O R E !
 - [ ] msced
-  - [ ] build my own
+  - [ ] build my own ‼️
+  - [ ] :o: `.../freecodecamp/learn li/skibluemt.html`
+  - [ ] :arrow_forward: `./skibluemtn.html`
   - [ ] NOTES
 
 
