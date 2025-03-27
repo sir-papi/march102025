@@ -459,10 +459,18 @@ git push origin main  # Replace 'main' with your branch name
 - [x] css balance sheet :trophy:
   - [ ] next challenge
   - [x] 30m fcc python code examples: variables; strings; 'hello sir papi'
-- [ ] D O  B E T T E R !
+- [ ] D O  B E T T E R ! :exclamation:
   - [ ] expansion | openness :thought_balloon: :white_heart: :pray: :weight_lifting_man: :lotus_position_man: :book: :heavy_exclamation_mark:
-  - [ ] 
+  - [ ] :o:
+     
+# march272025 
+17/100
 
+:trophy: early :white_check_mark: fcc intermediate css: cat painting; `/Users/apple/Documents/13march2025/freecodecamp/cat painting/coleman.html`  
+  - [ ] next challenge
+- [ ] msced
+- [ ] M O R E !
+  - [ ] build my own
 
 
  
