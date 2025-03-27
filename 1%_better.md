@@ -11,7 +11,7 @@ mushroom chicken soup w/ sofrito
 - [x] soup;
 - [ ] ~onions~ peppers; garlic;
 
-:o: sofrito see :arrow: <br><br>
+:o: sofrito see :arrow_down_small: <br><br>
 glizzies; peppers;<br><br>
 :o: coconut oil; witch hazel;
 <br>
