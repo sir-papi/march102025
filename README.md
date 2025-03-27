@@ -466,10 +466,11 @@ git push origin main  # Replace 'main' with your branch name
 # march272025 
 17/100
 
-:trophy: early :white_check_mark: fcc intermediate css: cat painting; `/Users/apple/Documents/13march2025/freecodecamp/cat painting/coleman.html`  
+:trophy: early :white_check_mark: fcc intermediate css: cat painting;  
+`/Users/apple/Documents/13march2025/freecodecamp/cat painting/coleman.html`  
   - [ ] next challenge
-- [ ] msced
 - [ ] M O R E !
+- [ ] msced
   - [ ] build my own
 
 
