@@ -9,14 +9,14 @@ mushroom chicken soup w/ sofrito
 - [ ] chicken;
 - [x] mushrooms;
 - [x] soup;
-- [ ] ~onions~ peppers; garlic;
+- [x] ~onions~ peppers; garlic;
 
 :o: sofrito see :arrow_down_small: <br><br>
 glizzies; peppers;<br><br>
 :o: coconut oil; witch hazel;
 <br>
 - [ ] manuka :honey_pot:
-- [ ] rosemary; tea tree;<br>
+- [x] rosemary; tea tree;<br>
 <br>
 :cheese: :pie: cheese pie<br>
 - [ ] cream cheese; crusts; sweetened condensed; vanilla extract;
@@ -28,11 +28,11 @@ pollocks <br>
 <br><br>
 :magnifying_glass: notes 10/22/24 
 
-:lotus_position_man:<br>
+:heavy_check_mark: :lotus_position_man:<br>
 :book:<br>
 :white_heart:<br>
 <hr><br>
-:o: where is my pocket moleskine paperback :question: <br>
+:heavy_check_mark: where is my pocket moleskine paperback :question: <br>
 laundry. bookcases. bathroom. fridge. 
 <hr>
 1 large onion, chopped
