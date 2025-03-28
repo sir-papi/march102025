@@ -1,73 +1,40 @@
-hmmmmm  
-same rules apply w/formatting?
+0956 not off to a good start due to all niter :shrug: <br>
+:pickup_truck: <br>
+:snowboarder: <br>
+:chicken: :mushroom: :stew: :chopsticks: <br>
+7904 :house_with_garden: <br>
+laundry. bookcases. bathroom. fridge. <br>
+:o: notes 10/22/24 <br>
+NOTES fcc :o: <br>
+:lotus_position_man: :book: :white_heart:<br>
+wow { deconstruction: reconstruction; }<br>
+:droplet: pwd :droplet:
+<hr>
+hmmmmm --same rules apply w/formatting? --we will see  
 
-we will see  
-
-shopping:  
-aldi :heavy_check_mark: <br>
+--shopping: aldi :heavy_check_mark:  
 :heavy_check_mark: mushroom chicken soup w/ sofrito
-- [x] chicken;
-- [x] mushrooms;
-- [x] soup;
-- [x] ~onions~ peppers; garlic;
+- [x] chicken; mushrooms; soup; ~onions~ peppers; garlic;
+- [ ] 
+glizzies; peppers; coconut oil;
 
-:o: sofrito see :arrow_down_small: <br><br>
-:o: glizzies; peppers;<br><br>
-:o: coconut oil; :heavy_check_mark: witch hazel; :heavy_check_mark: hydrogen peroxide;
-<br>
-- [ ] manuka :honey_pot:
-- [ ] florida water 
+:heavy_check_mark: witch hazel; :heavy_check_mark: hydrogen peroxide;
+
+- [ ] manuka :honey_pot: :o: florida water 
 - [x] rosemary; tea tree;<br>
-<br>
-:heavy_check_mark: :cheese: :pie: cheese pie<br>
+- [x] :cheese: :pie: cheese pie<br>
 - [x] cream cheese; crusts; sweetened condensed; vanilla extract;
-<br><br>
-pollocks <br>
+<br>--pollocks 
 - :o: sea moss; chlorophyll; green power blend;<br>
-- [x] soursop 36.95<br>
-- [x] bladder wrack sea moss bitters 39.95
-<br><br>
-:magnifying_glass: notes 10/22/24 :o:
-
-:heavy_check_mark: :lotus_position_man:<br>
-:heavy_check_mark: :book:<br>
-:heavy_check_mark: :white_heart:<br>
+- [x] soursop 36.95n- [x] bladder wrack sea moss bitters 39.95
+- [ ] 
+-- notes 10/22/24 :o: <br>
+-- :heavy_check_mark: :lotus_position_man: :heavy_check_mark: :book: :heavy_check_mark: :white_heart:<br>
 :heavy_check_mark: wow { deconstruction: reconstruction; }<br>
-<hr><br>
-:heavy_check_mark: where is my pocket moleskine paperback <br>
+-- :heavy_check_mark: where is my pocket moleskine paperback <br>
 laundry. bookcases. bathroom. fridge. <br>
 :pickup_truck: <br>
 <hr>
-1 large onion, chopped
 
-1 green bell pepper, chopped
-
-1 red bell pepper, chopped
-
-4-5 cloves garlic, minced
-
-1-2 habanero peppers (for extra heat, use Scotch bonnet or ghost pepper)
-
-1-2 jalapeños, chopped (remove seeds for less heat)
-
-1 bunch cilantro, chopped
-
-½ bunch culantro (if available)
-
-2-3 ajicitos (sweet or hot, depending on preference)
-
-2 Roma tomatoes, chopped
-
-¼ cup olive oil
-
-1 tsp smoked paprika
-
-1 tsp ground cumin
-
-½ tsp dried oregano
-
-Salt and black pepper to taste
-
-(Optional) ½ tsp red pepper flakes for extra heat
 
 
