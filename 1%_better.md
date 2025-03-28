@@ -31,6 +31,7 @@ pollocks <br>
 :heavy_check_mark: :lotus_position_man:<br>
 :book:<br>
 :white_heart:<br>
+wow { deconstruction: reconstruction; }<br>
 <hr><br>
 :heavy_check_mark: where is my pocket moleskine paperback :question: <br>
 laundry. bookcases. bathroom. fridge. 
