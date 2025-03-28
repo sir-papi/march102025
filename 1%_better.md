@@ -1,8 +1,8 @@
 0956 not off to a good start due to all niter :shrug: <br>
 :pickup_truck: <br>
 :snowboarder: <br>
-:chicken: :mushroom: :stew: :chopsticks: <br>
-7904 :house_with_garden: <br>
+:chicken: :mushroom: :stew: :chopsticks: :rice: <br>
+7904 :house_with_garden: rice cooker :no_bicycles: :gun: <br>
 laundry. bookcases. bathroom. fridge. <br>
 :o: notes 10/22/24 <br>
 NOTES fcc :o: <br>
