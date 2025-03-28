@@ -13,9 +13,10 @@ mushroom chicken soup w/ sofrito
 
 :o: sofrito see :arrow_down_small: <br><br>
 glizzies; peppers;<br><br>
-:o: coconut oil; witch hazel;
+:o: coconut oil; witch hazel; hydrogen peroxide;
 <br>
 - [ ] manuka :honey_pot:
+- [ ] florida water 
 - [x] rosemary; tea tree;<br>
 <br>
 :cheese: :pie: cheese pie<br>
