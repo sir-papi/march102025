@@ -5,34 +5,34 @@ we will see
 
 shopping:  
 aldi :heavy_check_mark: <br>
-mushroom chicken soup w/ sofrito
-- [ ] chicken;
+:heavy_check_mark: mushroom chicken soup w/ sofrito
+- [x] chicken;
 - [x] mushrooms;
 - [x] soup;
 - [x] ~onions~ peppers; garlic;
 
 :o: sofrito see :arrow_down_small: <br><br>
-glizzies; peppers;<br><br>
-:o: coconut oil; witch hazel; hydrogen peroxide;
+:o: glizzies; peppers;<br><br>
+:o: coconut oil; :heavy_check_mark: witch hazel; :heavy_check_mark: hydrogen peroxide;
 <br>
 - [ ] manuka :honey_pot:
 - [ ] florida water 
 - [x] rosemary; tea tree;<br>
 <br>
-:cheese: :pie: cheese pie<br>
-- [ ] cream cheese; crusts; sweetened condensed; vanilla extract;
+:heavy_check_mark: :cheese: :pie: cheese pie<br>
+- [x] cream cheese; crusts; sweetened condensed; vanilla extract;
 <br><br>
 pollocks <br>
 - :o: sea moss; chlorophyll; green power blend;<br>
 - [x] soursop 36.95<br>
 - [x] bladder wrack sea moss bitters 39.95
 <br><br>
-:magnifying_glass: notes 10/22/24 
+:magnifying_glass: notes 10/22/24 :o:
 
 :heavy_check_mark: :lotus_position_man:<br>
-:book:<br>
-:white_heart:<br>
-wow { deconstruction: reconstruction; }<br>
+:heavy_check_mark: :book:<br>
+:heavy_check_mark: :white_heart:<br>
+:heavy_check_mark: wow { deconstruction: reconstruction; }<br>
 <hr><br>
 :heavy_check_mark: where is my pocket moleskine paperback <br>
 laundry. bookcases. bathroom. fridge. <br>
