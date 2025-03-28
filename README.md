@@ -457,9 +457,9 @@ git push origin main  # Replace 'main' with your branch name
 16/100
 
 - [x] css balance sheet :trophy:
-  - [ ] next challenge
+  - [x] next challenge
   - [x] 30m fcc python code examples: variables; strings; 'hello sir papi'
-- [ ] D O  B E T T E R ! :exclamation:
+:heavy_check_mark: D O  B E T T E R ! :exclamation:
   - [ ] expansion | openness :thought_balloon: :white_heart: :pray: :weight_lifting_man: :lotus_position_man: :book: :heavy_exclamation_mark:
   - [ ] :o:
      
@@ -476,7 +476,15 @@ git push origin main  # Replace 'main' with your branch name
   - [ ] build my own ‼️
   - [ ] :o: `.../freecodecamp/learncli/skibluemt.html`
   - [x] :arrow_forward: `./skibluemtn.html`
-  - [ ] NOTES
+ :o: NOTES
 
+# march282025 
+18/100
 
+- [ ] NOTES: mindmap; sitemock; framework; m s c e d
+- [ ] learn python
+- [ ] mindfulness; activation; stillness; elevation; :pray: :weight_lifting_man: :lotus_position_man: :book:  
+- [ ] design :white_heart: in the :thought_balloon: of a :snowboarder: or **trader**
+- [ ] :speaking_head: hugh :laughing:
+- [ ] :thought_balloon: change! [everything](https://ar.crimethinc.com/tce)? [intelligently](https://www.intelligentchange.com/collections/spring-collection/products/quarterly-productivity-planner)
  
