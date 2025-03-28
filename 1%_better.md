@@ -33,8 +33,9 @@ pollocks <br>
 :white_heart:<br>
 wow { deconstruction: reconstruction; }<br>
 <hr><br>
-:heavy_check_mark: where is my pocket moleskine paperback :question: <br>
-laundry. bookcases. bathroom. fridge. 
+:heavy_check_mark: where is my pocket moleskine paperback <br>
+laundry. bookcases. bathroom. fridge. <br>
+:pickup_truck: <br>
 <hr>
 1 large onion, chopped
 
