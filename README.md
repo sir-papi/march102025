@@ -481,10 +481,20 @@ git push origin main  # Replace 'main' with your branch name
 # march282025 
 18/100
 
-- [ ] NOTES: mindmap; sitemock; framework; m s c e d
+- [x] NOTES: mindmap; sitemock; framework; m s c e d<br>
+      + working; to be continued
 - [ ] learn python
-- [ ] mindfulness; activation; stillness; elevation; :pray: :weight_lifting_man: :lotus_position_man: :book:  
+- [ ] mindfulness; activation; stillness; elevation;
+- [x] :pray: :weight_lifting_man:<br>
+:o: :lotus_position_man: :book:  
 - [ ] design :white_heart: in the :thought_balloon: of a :snowboarder: or **trader**
 - [ ] :speaking_head: hugh :laughing:
 - [ ] :thought_balloon: change! [everything](https://ar.crimethinc.com/tce)? [intelligently](https://www.intelligentchange.com/collections/spring-collection/products/quarterly-productivity-planner)
- 
+
+ # march292025 
+19/100
+
+go to yesterday:
++ do more
++ do better
++ do
