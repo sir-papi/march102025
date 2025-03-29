@@ -1,3 +1,31 @@
+no real to:dos to-day lol<br>
+pick up kid @ 1600<br>
+get some ish done + gm$t<br>
+:o: whatever remains undone from :arrow_down_small:<br><br>
+but also:<br>
+what ive learned this month of رمضان ::<br>
+gm$t is constant; reqs focused consistency;<br>
+& proper assessment | planning | forward thinking...<br>
+do it asap; in its time; <br>
+dont delay:<br>
+that leads to more issues like being backed up;<br>
+forced to rush thru or eliminate stuff;
+anxiety;<br>things remaining undone; or done unfocused;<br>
+so . . . d o  b e t t e r ! . . .<br>
+do it; esp when its difficult;<br>
+early; so it don't run into the next thing...<br>
+dont let gains go to waste;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;be they nutritious; spiritual; personal; physical; mental/emotional; etc<br>
+doing > watching; hearing; listening;<br>
+getting shit done is :trophy: & mood-enhancer;<br>
+plus prevents from letting the bullshit become us & a gang of shit;<br>
+:key: finding a routine + doing the daily mandatory :lotus_position_man: :book: :white_heart: :weight_lifting_man: 
+:pray:
++ doing stuff early | 1st thing
++ avoiding bs unproductiveness + distractions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;be they people places or things :flushed:
+
+---
 0956 not off to a good start due to all niter :shrug: <br>
 :pickup_truck: <br>
 :snowboarder: <br>
