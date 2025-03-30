@@ -491,10 +491,18 @@ git push origin main  # Replace 'main' with your branch name
 - [ ] :speaking_head: hugh :laughing:
 - [ ] :thought_balloon: change! [everything](https://ar.crimethinc.com/tce)? [intelligently](https://www.intelligentchange.com/collections/spring-collection/products/quarterly-productivity-planner)
 
- # march292025 
+# march292025 
 19/100
 
 go to yesterday:
 + do more
 + do better
 + do
+
+‼️ actually cant recall what i did yesterday :thinking:
+
+# march302025 عيد الاضحى مبارك
+20/100
+
+:trophy:
+- [x] fcc city skyline
