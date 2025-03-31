@@ -1,3 +1,9 @@
+didnt get much of anything done today  
+  
+**'eid** + sleep...  
+
+*trying to stay on []*
+---
 no real to:dos to-day lol<br>
 pick up kid @ 1600<br>
 get some ish done + gm$t<br>
