@@ -1,3 +1,13 @@
+0532 :toilet:  <br>
+w o r k i n g  <br>
+did i get better ?  <br>
+1% <br>
+did i [redesign myself](https://athanacademy.com/the-ramadan-masterclass/) ? <br>
+ <br>
+ramadaan is over . . .  
+but is IT really ever over ? <br>
+
+---
 didnt get much of anything done today  
   
 **'eid** + sleep...  
