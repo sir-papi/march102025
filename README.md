@@ -505,5 +505,6 @@ go to yesterday:
 20/100
 
 :trophy:
-- [x] fcc city skyline
-- [x] fcc css grid magazine
+- [x] fcc city skyline;
+- [x] fcc css grid: magazine;
+- [x] fcc animation: ferris wheel;
