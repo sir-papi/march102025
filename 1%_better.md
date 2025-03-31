@@ -6,6 +6,14 @@ did i [redesign myself](https://athanacademy.com/the-ramadan-masterclass/) ? <br
  <br>
 ramadaan is over . . .  
 but is IT really ever over ? <br>
+<br>
+الم
+<br>
+habits. . .<br>
+contradictions. . . <br>
+new habits to contradict old methods<br>
+deconstruct. reconstruct. define. redesign. <br>
+:trophy: صلاة الفجر في المسجد :trophy:
 
 ---
 didnt get much of anything done today  
