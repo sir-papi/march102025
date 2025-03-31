@@ -13,7 +13,10 @@ habits. . .<br>
 contradictions. . . <br>
 new habits to contradict old methods<br>
 deconstruct. reconstruct. define. redesign. <br>
-:trophy: صلاة الفجر في المسجد :trophy:
+:trophy: صلاة الفجر في المسجد :trophy:<br>
+<br>
+@it: 100d; gotta split the :parking: wisely & msced; gm$t; pwd; 🏋️‍♂️🧘‍♂️📖🙏🤍; et cetera.
+
 
 ---
 didnt get much of anything done today  
