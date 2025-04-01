@@ -526,9 +526,9 @@ weirded out: because evrythng lstd as 033025? was :white_check_mark: ystrdy
 w t f <hr>:o:<hr>
 what am i doing about new M new Q ?  
 - [x] fcc: css transforms; penguin; :trophy:
-- [ ] proj: technical documentation;
-- [ ] proj: product landing page;
-- [ ] proj: personal portfolio page;
+- [ ] [proj](https://technical-documentation-page.freecodecamp.rocks/): technical documentation;
+- [ ] [proj](https://product-landing-page.freecodecamp.rocks/): product landing page;
+- [ ] [proj](https://personal-portfolio.freecodecamp.rocks/): personal portfolio page;
 - [ ] wireframes | frameworks | systems | mindmaps | mocks
 - [ ] knock these off :o: responsive web design
 - [ ] + move to :question: python :question: JS :question:
