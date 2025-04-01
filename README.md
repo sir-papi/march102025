@@ -508,3 +508,28 @@ go to yesterday:
 - [x] fcc city skyline;
 - [x] fcc css grid: magazine;
 - [x] fcc animation: ferris wheel;
+
+
+# march312025 عيد الاضحى مبارك
+21/100
+:thinking:
+
+# april12025
+21/100
+:thinking:  
+how did i miss a day?  
+where?  
+
+weirded out: because evrythng lst as 033025 was completed ystrdy  
+w t f <hr>:o:<hr>
+what am i doing about new M new Q ?  
+- [x] fcc: css transforms; penguin; :trophy:
+- [ ] proj: technical documentation;
+- [ ] proj: product landing page;
+- [ ] proj: personal portfolio page;
+- [ ] wireframes | frameworks | systems | mindmaps | mocks
+- [ ] knock these off :o: responsive web design
+- [ ] + move to :question: python :question: JS :question:
+- [ ] cs50
+- [ ] ethical hacking
+- [ ] w o r k i n g 
