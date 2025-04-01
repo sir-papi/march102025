@@ -4,7 +4,7 @@ physical work
 :bank: bills  
 :moneybag: :pickup_truck: :minibus:
 
-
+---
 0532 :toilet:  <br>
 w o r k i n g  <br>
 did i get better ?  <br>
