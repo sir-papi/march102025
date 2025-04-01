@@ -532,4 +532,6 @@ what am i doing about new M new Q ?
 - [ ] + move to :question: python :question: JS :question:
 - [ ] cs50
 - [ ] ethical hacking
-- [ ] w o r k i n g 
+- [ ] w o r k i n g <hr>
+:warning: a lot of :arrow_up_small: unchecked :white_square_button: boxes <hr>
+:om: :checkered_flag: :heavy_dollar_sign: :parking: :leo: :registered: :tm:
