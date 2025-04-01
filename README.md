@@ -491,7 +491,7 @@ git push origin main  # Replace 'main' with your branch name
 - [ ] :speaking_head: hugh :laughing:
 - [ ] :thought_balloon: change! [everything](https://ar.crimethinc.com/tce)? [intelligently](https://www.intelligentchange.com/collections/spring-collection/products/quarterly-productivity-planner)
 
-# march292025 
+# march292025 sadderday
 19/100
 
 go to yesterday:
@@ -499,28 +499,30 @@ go to yesterday:
 + do better
 + do
 
-‼️ actually cant recall what i did yesterday :thinking:
+‼️ actually cant recall what i did  :thinking:
 
 # march302025 عيد الاضحى مبارك
 20/100
 
-:trophy:
-- [x] fcc city skyline;
-- [x] fcc css grid: magazine;
-- [x] fcc animation: ferris wheel;
+randomness . . . caught up w/ عيد 
+- [x] fcc city skyline; <br>
+can recall nothing else
 
 
 # march312025 عيد الاضحى مبارك
 21/100
-:thinking:
+
+:trophy:
+- [x] fcc css grid: magazine;
+- [x] fcc animation: ferris wheel;
 
 # april12025
-21/100
+22/100
 :thinking:  
 how did i miss a day?  
 where?  
 
-weirded out: because evrythng lst as 033025 was completed ystrdy  
+weirded out: because evrythng lstd as 033025? was :white_check_mark: ystrdy  
 w t f <hr>:o:<hr>
 what am i doing about new M new Q ?  
 - [x] fcc: css transforms; penguin; :trophy:
