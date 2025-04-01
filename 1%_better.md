@@ -1,3 +1,10 @@
+0753 :house:  
+:o: pwd work  
+physical work  
+:bank: bills  
+:moneybag: :pickup_truck: :minibus:
+
+
 0532 :toilet:  <br>
 w o r k i n g  <br>
 did i get better ?  <br>
@@ -23,7 +30,7 @@ didnt get much of anything done today
   
 **'eid** + sleep...  
 
-*trying to stay on []*
+*trying to stay on* []
 ---
 no real to:dos to-day lol<br>
 pick up kid @ 1600<br>
