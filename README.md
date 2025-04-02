@@ -533,7 +533,10 @@ what am i doing about new M new Q ?
 - [ ] knock these off :o: responsive web design
 - [ ] + move to :question: python :question: JS :question:
 - [ ] cs50
-- [ ] ethical hacking
+- [ ] [ethical hacking](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 - [ ] w o r k i n g <hr>
 :warning: a lot of :arrow_up_small: unchecked :white_square_button: boxes <hr>
 :om: :checkered_flag: :heavy_dollar_sign: :parking: :leo: :registered: :tm:
+
+# april22025
+23/100
