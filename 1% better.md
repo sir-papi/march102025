@@ -1,3 +1,13 @@
+<b>what tf is im is ? . . .  </b> <br>
+havent got it in on any thing but the <code>coding</code>  
+<br>
+w o r k  
+d o&nbsp;&nbsp;b e t t e r  
+<br>
+psecu; harmony; turo;<br><br>
+<i>wednesday: 4.2.25: 0926: south street: 19146</i><br>
+
+---
 0753 :house:  
 :o: pwd work  
 physical work  
