@@ -517,7 +517,7 @@ can recall nothing else
 - [x] fcc animation: ferris wheel;
 
 # april12025
-22/100
+22/100<br><br>
 :thinking:  
 how did i miss a day?  
 where?  
@@ -532,7 +532,7 @@ what am i doing about new M new Q ?
 - [ ] wireframes | frameworks | systems | mindmaps | mocks
 - [ ] knock these off :o: responsive web design
 - [ ] + move to :question: python :question: JS :question:
-- [ ] cs50
+- [ ] [cs50](https://cs50.harvard.edu/cybersecurity/2023/weeks/1/)
 - [ ] [ethical hacking](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 - [ ] w o r k i n g <hr>
 :warning: a lot of :arrow_up_small: unchecked :white_square_button: boxes <hr>
@@ -540,3 +540,24 @@ what am i doing about new M new Q ?
 
 # april22025
 23/100
+
+- [x] mindmaps | wireframes: product landing project; portfolio project;
+- [ ] complete michael jordan **(p)roduct** + beam **(p)ortfolio**
+- [x] [codepen](https://codepen.io/sir-papi/)
+- [x] heic to jpegg: `sips -s format jpeg *.HEIC --out ~/Desktop/`
+- [x] hayao miyazaki illustrations: frank ocean; :snowboarder: :parking:; eid fam;
+- [x] go to css
+```
+* {
+    border: 1px solid red;
+    box-sizing; border-box;
+}
+```
+- [x] git man pdf: `man -t git | ps2pdf - git_manual.pdf`
+- [x] :trophy: w o r k i n g
+
+# april32025
+24/100
+
+- [ ] cleanup previous task list
+- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o: 
