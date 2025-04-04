@@ -560,4 +560,5 @@ what am i doing about new M new Q ?
 24/100
 
 - [ ] cleanup previous task list
-- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o: 
+- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
+- [x] :pray: :lotus_position_man:
