@@ -560,4 +560,13 @@ what am i doing about new M new Q ?
 24/100
 
 - [ ] cleanup previous task list
-- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o: 
+- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
+
+# april42025
+25/100
+
+still w o r k i n g on (p)roduct
+- [ ] complete it :exclamation:
+
+# april52025
+26/100
