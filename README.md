@@ -566,7 +566,11 @@ what am i doing about new M new Q ?
 25/100
 
 still w o r k i n g on (p)roduct
-- [ ] complete it :exclamation:
+- [x] complete it :heavy_check_mark:
 
 # april52025
 26/100
+
+:trophy:  
+- [x] fcc product landing: be like mike;
+- [ ] portfolio now :o:
