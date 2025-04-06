@@ -527,8 +527,8 @@ w t f <hr>:o:<hr>
 what am i doing about new M new Q ?  
 - [x] fcc: css transforms; penguin; :trophy:
 - [ ] [proj](https://technical-documentation-page.freecodecamp.rocks/): technical documentation;
-- [ ] [proj](https://product-landing-page.freecodecamp.rocks/): product landing page;
-- [ ] [proj](https://personal-portfolio.freecodecamp.rocks/): personal portfolio page;
+- [x] [proj](https://product-landing-page.freecodecamp.rocks/): product landing page;
+- [x] [proj](https://personal-portfolio.freecodecamp.rocks/): personal portfolio page;
 - [ ] wireframes | frameworks | systems | mindmaps | mocks
 - [ ] knock these off :o: responsive web design
 - [ ] + move to :question: python :question: JS :question:
@@ -542,7 +542,7 @@ what am i doing about new M new Q ?
 23/100
 
 - [x] mindmaps | wireframes: product landing project; portfolio project;
-- [ ] complete michael jordan **(p)roduct** + beam **(p)ortfolio**
+- [x] complete michael jordan **(p)roduct** + beam **(p)ortfolio**
 - [x] [codepen](https://codepen.io/sir-papi/)
 - [x] heic to jpegg: `sips -s format jpeg *.HEIC --out ~/Desktop/`
 - [x] hayao miyazaki illustrations: frank ocean; :snowboarder: :parking:; eid fam;
@@ -561,6 +561,7 @@ what am i doing about new M new Q ?
 
 - [ ] cleanup previous task list
 - [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
+- [x] :lotus_position_man: 
 
 # april42025
 25/100
@@ -573,4 +574,12 @@ still w o r k i n g on (p)roduct
 
 :trophy:  
 - [x] fcc product landing: be like mike;
-- [ ] portfolio now :o:
+- [x] :lotus_position_man: 
+- [x] portfolio now :o:
+
+# april62025
+27/100
+
+:trophy:  
+- [ ] fcc technical documentation: kodone style 1st NOTES;
+- [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
