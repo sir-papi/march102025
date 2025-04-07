@@ -1,3 +1,10 @@
+pomodoro:<br>
+read;<br>
+yoga; <br>
+best ideas;<br>
+chatGPT prompts;<br>
+
+---
 <b>what tf is im is ? . . .  </b> <br>
 havent got it in on any thing but the <code>coding</code>  
 <br>
