@@ -583,3 +583,15 @@ still w o r k i n g on (p)roduct
 :trophy:  
 - [ ] fcc technical documentation: kodone style 1st NOTES;
 - [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
+- [x] :weight_lifting_man: <br>
+:trophy: 
+- [ ] chatGPT 5 levels of progression
+- [ ] mkdir assets; consolidate go to css
+- [x] font awesome ftw<br>
+```
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a>
+<a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a>
+<a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a>
+<a href="https://www.instagram.com/thatuptwork" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+```
