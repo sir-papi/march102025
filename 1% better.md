@@ -3,6 +3,7 @@ read;<br>
 yoga; <br>
 best ideas;<br>
 chatGPT prompts;<br>
+the :one: thing: 'https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea' <br>
 
 ---
 <b>what tf is im is ? . . .  </b> <br>
