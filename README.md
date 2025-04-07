@@ -601,3 +601,4 @@ still w o r k i n g on (p)roduct
 - [x] google fonts `https://fonts.google.com/specimen/Merriweather`
 
 - [x] canva color wheel `https://www.canva.com/colors/color-wheel/`
+- [x] network models: chatGPT :o: review; :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ); `~/Desktop/random_coding/network_models/osi/472025.html`
