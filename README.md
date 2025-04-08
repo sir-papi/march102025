@@ -606,8 +606,8 @@ still w o r k i n g on (p)roduct
 # april72025
 28/100
 
-- [x] :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ);
-- [x] wireframe: [techwithtris](https://codepen.io/techwithtris/pen/vWeWaX);
+- [x] :tv: [master the basics of computer networking](https://www.youtube.com/watch?v=DYgRqIeuwVQ);
+- [x] [techwithtris](https://codepen.io/techwithtris/pen/vWeWaX) [wireframe](https://github.com/sir-papi/jason-martin/blob/main/freecodecamp/wireframe/techwithtris.html)
 - [x] :book: automate the boring stuff: based off [chatGPT :one: thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea);
 - [ ] python :snake: 
 - [ ] :exclamation: more [1️⃣ thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea) :o: :exclamation:
