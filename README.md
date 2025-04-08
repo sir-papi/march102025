@@ -602,3 +602,12 @@ still w o r k i n g on (p)roduct
 
 - [x] canva color wheel `https://www.canva.com/colors/color-wheel/`
 - [x] network models: chatGPT :o: review; :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ); `~/Desktop/random_coding/network_models/osi/472025.html`
+
+# april72025
+28/100
+
+- [x] :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ);
+- [x] wireframe: [techwithtris](https://codepen.io/techwithtris/pen/vWeWaX);
+- [x] :book: automate the boring stuff: based off [chatGPT]();
+- [ ] more 1️⃣ thing :o:
+- [ ] python :snake:
