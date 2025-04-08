@@ -1,3 +1,15 @@
+⭕️ <br>
+{ joplin: 📝; 
+📖: 🐍; 
+fcc: 📝; 
+cs50: whole thing;
+life: shit;
+}<br>
+Y O G A :lotus_position_man: ¥ 0 G Å
+>>> life = pwd + bills + vehicles + 7904
+>>> 
+⭕️
+---
 pomodoro:<br>
 read;<br>
 yoga; <br>
