@@ -544,16 +544,18 @@ what am i doing about new M new Q ?
 - [x] mindmaps | wireframes: product landing project; portfolio project;
 - [x] complete michael jordan **(p)roduct** + beam **(p)ortfolio**
 - [x] [codepen](https://codepen.io/sir-papi/)
-- [x] heic to jpegg: `sips -s format jpeg *.HEIC --out ~/Desktop/`
+- [x] heic to jpegg: <br>
+      `sips -s format jpeg *.HEIC --out ~/Desktop/`
 - [x] hayao miyazaki illustrations: frank ocean; :snowboarder: :parking:; eid fam;
-- [x] go to css
-```
-* {
-    border: 1px solid red;
-    box-sizing; border-box;
-}
-```
-- [x] git man pdf: `man -t git | ps2pdf - git_manual.pdf`
+- [x] go to css <br>
+      ```
+      * {
+          border: 1px solid red;
+          box-sizing; border-box;
+      }
+      ```
+- [x] git man pdf: <br>
+      `man -t git | ps2pdf - git_manual.pdf`
 - [x] :trophy: w o r k i n g
 
 # april32025
@@ -582,26 +584,28 @@ still w o r k i n g on (p)roduct
 
 :trophy:  
 - [ ] fcc technical documentation: kodone style 1st NOTES;
-- [ ] wireframes: `https://codepen.io/techwithtris/pen/vWeWaX` `https://notes.itsjonq.com/Home+-+Notes`
+- [ ] wireframes: <br>
+      `https://codepen.io/techwithtris/pen/vWeWaX` <br>
+      `https://notes.itsjonq.com/Home+-+Notes`
 - [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
 - [x] :weight_lifting_man: <br>
 :trophy: 
 - [ ] chatGPT 5 levels of progression
 - [ ] mkdir assets; consolidate go to css
-- [x] font awesome ftw<br>
-
-```
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-<a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a>
-<a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a>
-<a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a>
-<a href="https://www.instagram.com/thatuptwork" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-```
-
-- [x] google fonts `https://fonts.google.com/specimen/Merriweather`
-
-- [x] canva color wheel `https://www.canva.com/colors/color-wheel/`
-- [x] network models: chatGPT :o: review; :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ); `~/Desktop/random_coding/network_models/osi/472025.html`
+- [x] font awesome ftw <br>
+      ```
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+      <a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a>
+      <a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a>
+      <a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a>
+      <a href="https://www.instagram.com/thatuptwork" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+      ```
+- [x] google fonts <br>
+      `https://fonts.google.com/specimen/Merriweather`
+- [x] canva color wheel <br>
+      `https://www.canva.com/colors/color-wheel/`
+- [x] network models: chatGPT :o: review; :tv: [master](https://www.youtube.com/watch?v=DYgRqIeuwVQ); <br>
+      `~/Desktop/random_coding/network_models/osi/472025.html`
 
 # april72025
 28/100
@@ -610,7 +614,58 @@ still w o r k i n g on (p)roduct
 - [x] [techwithtris](https://codepen.io/techwithtris/pen/vWeWaX) [wireframe](https://github.com/sir-papi/jason-martin/blob/main/freecodecamp/wireframe/techwithtris.html)
 - [x] :book: automate the boring stuff: based off [chatGPT :one: thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea);
 - [ ] python :snake: 
-- [ ] :exclamation: more [1️⃣ thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea) :o: :exclamation:
+- [x] :exclamation: more [1️⃣ thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea) :o: :exclamation:
 - [x] :exclamation: [shahir](https://github.com/sir-papi/march102025/tree/main/shahir42025) :exclamation:
-- [ ] joplin :memo:
+- [x] joplin :memo:
 - [ ] :o: kalima code :snake:
+
+# april82025
+29/100
+
+- [ ] dont forget chatGPT 5 levels. . . :o: where is it :earth_africa: :question: <br>
+      - [ ] :speech_balloon: HTML + CSS Progressive
+- [ ] :o: <br>
+      - [ ] wireframe + fcc cert: NOTES <br>
+      - [ ] cs50 assignment 1 <br>
+      - [ ] journal :memo: <br>
+- [x] started [joplin](https://joplinapp.org/help/apps/markdown/) :memo: on [automate the boring stuff](https://automatetheboringstuff.com/2e/chapter1/) :thumbsup:
+- [x] added slideshow + add'l copy to [shahir](https://github.com/sir-papi/march102025/tree/main/shahir42025)
+- [x] powerhouse OS; my digital dojo dashboard; formerly known as the :one: thing 
+- [ ] largely unsuccessful w/ github pages :thumbsdown:
+- [ ] good could be better -- :red_circle: not enough coding BUT. . .<br>
+      - [x] :green_circle: :book: [automate the boring stuff](https://automatetheboringstuff.com/2e/chapter1/)
+- [x] chatGPT on :iphone: :heavy_check_mark:
+- [x] :tv: [david bombay](https://www.youtube.com/@davidbombal) + [neal bridges](https://www.youtube.com/watch?v=SFbV7sTSAlA) :exclamation: :exclamation:
+- [ ] :tv: :o: intro [**linux**](https://www.youtube.com/watch?v=2eEe5LnEbks)
+- [ ] :iphone: :memo: cellular automata :o:
+- [x] merge: branches on repository from local command line:<br>
+      ```
+      % git status
+      git fetch origin
+      git status  
+      git checkout main
+      git status
+      git merge always-branch+track-changes
+      * merge: always-branch+track-changes - not something we can merge
+      * 
+      * Did you mean this?
+      * 	origin/always-branch+track-changes
+      git branch
+      git branch -r
+      git checkout -b always-branch+track-changes origin/always-branch+track-changes
+      git status 
+      git branch 
+      git checkout main 
+      git merge always-branch+track-changes
+      git status
+      git push origin main 
+      git status
+      ```
+      <br>
+- [x] cl time change <br>
+      ```
+      apple@Apples-MacBook-Pro march102025 % date
+      Tue Apr  8 20:25:37 EDT 2025
+      % date "+%m.%d.%Y |  %H:%M:%S"
+      04.08.2025 |  20:28:41
+      ```
