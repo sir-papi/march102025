@@ -623,14 +623,17 @@ still w o r k i n g on (p)roduct
 29/100
 
 - [ ] dont forget chatGPT 5 levels. . . :o: where is it :earth_africa: :question: <br>
-      - [ ] :speech_balloon: HTML + CSS Progressive
+      - [x] :speech_balloon: HTML + CSS Progressive
 - [ ] :o: <br>
       - [ ] wireframe + fcc cert: NOTES <br>
       - [ ] cs50 assignment 1 <br>
+      - [ ] :white_heart: <br>
       - [ ] journal :memo: <br>
 - [x] started [joplin](https://joplinapp.org/help/apps/markdown/) :memo: on [automate the boring stuff](https://automatetheboringstuff.com/2e/chapter1/) :thumbsup:
 - [x] added slideshow + add'l copy to [shahir](https://github.com/sir-papi/march102025/tree/main/shahir42025)
-- [x] powerhouse OS; my digital dojo dashboard; formerly known as the :one: thing 
+- [x] powerhouse OS; my digital dojo dashboard; formerly known as the :one: thing <br>
+      so many links; so many SKUs :exclamation: <br>
+      **w o r k i n g** <br>
 - [ ] largely unsuccessful w/ github pages :thumbsdown:
 - [ ] good could be better -- :red_circle: not enough coding BUT. . .<br>
       - [x] :green_circle: :book: [automate the boring stuff](https://automatetheboringstuff.com/2e/chapter1/)
