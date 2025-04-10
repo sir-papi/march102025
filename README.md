@@ -645,7 +645,7 @@ still w o r k i n g on (p)roduct
       
       % git status
       git fetch origin
-      git statu  
+      git status  
       git checkout main
       git status
       git merge always-branch+track-changes
@@ -671,3 +671,20 @@ still w o r k i n g on (p)roduct
       % date "+%m.%d.%Y |  %H:%M:%S"
       04.08.2025 |  20:28:41
       
+# april92025
+30/100
+
+- [x] :trophy: '/zshHack' :green_circle: powerhouse OS 1% :green_circle:
+- [x] new **joplin** who this
+- [x] :book: automate the boring stuff
+
+# april102025
+31/100
+
+- [ ] finish fcc :exclamation: :exclamation:
+- [ ] cs50 assignment 1 :exclamation: :exclamation:
+- [ ] private pwd repo
+- [ ] personal font
+- [ ] joplin trading
+- [ ] automate :book: | :snake: | linux
+- [ ] O M G
