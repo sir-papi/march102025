@@ -642,33 +642,32 @@ still w o r k i n g on (p)roduct
 - [ ] :tv: :o: intro [**linux**](https://www.youtube.com/watch?v=2eEe5LnEbks)
 - [ ] :iphone: :memo: cellular automata :o:
 - [x] merge: branches on repository from local command line:<br>
-      ```
+      
       % git status
       git fetch origin
-      git status  
+      git statu  
       git checkout main
       git status
       git merge always-branch+track-changes
       * merge: always-branch+track-changes - not something we can merge
-      * 
+      *
       * Did you mean this?
-      * 	origin/always-branch+track-changes
+      * 	origin/always-branch+track-changes <
       git branch
       git branch -r
       git checkout -b always-branch+track-changes origin/always-branch+track-changes
-      git status 
-      git branch 
-      git checkout main 
+      git status
+      git branch
+      git checkout main
       git merge always-branch+track-changes
       git status
-      git push origin main 
+      git push origin main
       git status
-      ```
-      <br>
+      
 - [x] cl time change <br>
-      ```
+      
       apple@Apples-MacBook-Pro march102025 % date
       Tue Apr  8 20:25:37 EDT 2025
       % date "+%m.%d.%Y |  %H:%M:%S"
       04.08.2025 |  20:28:41
-      ```
+      
