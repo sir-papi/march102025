@@ -674,7 +674,7 @@ still w o r k i n g on (p)roduct
 # april92025
 30/100
 
-- [x] :trophy: '/zshHack' :green_circle: powerhouse OS 1% :green_circle:
+- [x] :trophy: ~/zshHack~ :green_circle: powerhouse OS 1% :green_circle:
 - [x] new **joplin** who this
 - [x] :book: automate the boring stuff
 
@@ -683,8 +683,41 @@ still w o r k i n g on (p)roduct
 
 - [ ] finish fcc :exclamation: :exclamation:
 - [ ] cs50 assignment 1 :exclamation: :exclamation:
-- [ ] private pwd repo
+- [x] private pwd repo <br>
+      - shit too easy
 - [ ] personal font
 - [ ] joplin trading
 - [ ] automate :book: | :snake: | linux
 - [ ] O M G
+- [ ] :trophy: `/zshHacker` <br>
+      - tuesday: prompt; wednesday; current time; today; battery%;<br>
+      :o: define + deconstruct to the fundamental components<br>
+**code**:
+```
+# Enable prompt command substitution
+setopt PROMPT_SUBST
+
+# Set time zone
+export TZ="America/New_York"
+
+autoload -Uz add-zsh-hook
+
+precmd() {
+  export TODAY_DATE=$(date "+%m.%d.%Y")
+}
+
+# add battery
+autoload -Uz colors && colors
+
+get_battery_percent() {
+  [[ "$OSTYPE" == "darwin"* ]] && echo "$(pmset -g batt | grep -Eo '[0-9]+%')" $
+}
+
+set_prompt() {
+  local battery=$(get_battery_percent)
+  PROMPT="🔋%F{yellow}$battery% %F{green}\$TODAY_DATE | %*%f
+  %F{green}powerhouse OS 1%%%f "
+}
+
+precmd_functions+=(set_prompt)       
+```
