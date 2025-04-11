@@ -1,4 +1,5 @@
-# hello-world
+# hello-world + march112025
+
 new repository: practicing github flow;\
 this is my 2nd go round as i was on github in my 100 days of code era;
 
@@ -15,5 +16,13 @@ and [tariq](https://www.youtube.com/watch?v=prmQgSpV3fA):
 > you take it there we taking it further that somethin you dont wanna do[...](https://youtu.be/NPqDIwWMtxg?si=BDSMjYOMIYrLHgNU)\
 > i know they aint think we'd make it far[...](https://youtu.be/-l9uwM0QYEo?si=fWWQoahQEd98bE7T)\
 > thank [God](https://youtu.be/kn3GZHjHPjM?si=2tm2RNwzUEHHVsdu). for me.
+
+## march112025.md
+0357: the new 100d of coding;  
+to be joined by chart re-entry;<hr />
+been getting it in all over the place;  
+adding to noted project;  
+less coding, more text formatizationLOL!;
+
 
 
