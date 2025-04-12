@@ -470,7 +470,7 @@ git push origin main  # Replace 'main' with your branch name
 `/Users/apple/Documents/13march2025/freecodecamp/cat painting/coleman.html`  
   - [x] :trophy: next challenge: :musical_keyboard: fcc `.../freecodecamp/grand piano/piano.html`
   - [x] change that to miss beverly; only .txt w/ required
-  - [ ] 1/3 remaining fcc requireds
+  - [x] 1/3 remaining fcc requireds
 - [ ] M O R E !
 - [ ] msced
   - [ ] build my own ‼️
@@ -526,12 +526,12 @@ weirded out: because evrythng lstd as 033025? was :white_check_mark: ystrdy
 w t f <hr>:o:<hr>
 what am i doing about new M new Q ?  
 - [x] fcc: css transforms; penguin; :trophy:
-- [ ] [proj](https://technical-documentation-page.freecodecamp.rocks/): technical documentation;
+- [x] [proj](https://technical-documentation-page.freecodecamp.rocks/): technical documentation;
 - [x] [proj](https://product-landing-page.freecodecamp.rocks/): product landing page;
 - [x] [proj](https://personal-portfolio.freecodecamp.rocks/): personal portfolio page;
-- [ ] wireframes | frameworks | systems | mindmaps | mocks
-- [ ] knock these off :o: responsive web design
-- [ ] + move to :question: python :question: JS :question:
+- [x] wireframes | frameworks | systems | mindmaps | mocks
+- [x] knock these off :o: responsive web design
+- [x] + move to :question: python :question: JS :question:
 - [ ] [cs50](https://cs50.harvard.edu/cybersecurity/2023/weeks/1/)
 - [ ] [ethical hacking](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 - [ ] w o r k i n g <hr>
@@ -583,8 +583,8 @@ still w o r k i n g on (p)roduct
 27/100
 
 :trophy:  
-- [ ] fcc technical documentation: kodone style 1st NOTES;
-- [ ] wireframes: <br>
+- [ ] fcc technical documentation: ~kodone style 1st NOTES~;
+- [x] wireframes: <br>
       `https://codepen.io/techwithtris/pen/vWeWaX` <br>
       `https://notes.itsjonq.com/Home+-+Notes`
 - [ ] :pray: :weight_lifting_man: :lotus_position_man: :book: :o:
@@ -681,7 +681,7 @@ still w o r k i n g on (p)roduct
 # april102025
 31/100
 
-- [ ] finish fcc :exclamation: :exclamation:
+- [x] finish fcc :exclamation: :exclamation:
 - [ ] cs50 assignment 1 :exclamation: :exclamation:
 - [x] private pwd repo <br>
       - shit too easy
@@ -721,3 +721,47 @@ set_prompt() {
 
 precmd_functions+=(set_prompt)       
 ```
+:exclamation:<br>
+:exclamation: [hacking myself aka powerhouseOSShahir](https://github.com/sir-papi/march102025/tree/main/shahir42025)<br>
+      - * :white_heart:
+`/zshHacker`
+- [x] git pwd repo :trophy: :exclamation:
+- [x] **haml** l o a d i n g . . .
+
+# april112025
+32/100
+
+random:
+```
+pmset -g batt | grep -Eo "[0-9]+%"\ <br>
+gem install haml\<br>
+sudo gem install haml<br>
+haml render my1st.haml<br>
+haml render my1st.haml > my1st.html\<br>
+open my1st.html<br>
+gem install htmlbeautifier<br>
+sudo gem install htmlbeautifier\<br>
+haml render my1st.haml | htmlbeautifier > myBeautiful1st.html<br>
+cat ~/.zsh_history | less<br>
+```
+
+- [x] created pwd repo :trophy: <br>
+[new font assets](https://github.com/necolas/normalize.css/issues/665)
+- * <code>font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;</code>
+
+# april122025
+33/100
+
+:heavy_check_mark: completed fcc rwd :trophy:<br>
+:o: git NEMT . . . :hourglass:<br>
+:speaking_head: "really **doing this**   <br>   
+-      coded by haml: technical documentation re: python;
+-      off all joplin notes; and a fcc rwd cert... fcuk wit me...<br>
+:book: [darthdomino](https://github.com/DarthDomino/Personal-Safety-Manual)<br>
+      - [ ] piet mondrian :art: :framed_picture: `/4dskwxzk`<br>
+:fire: :memo: :mag_right: reverse [engineer here](https://karenaevans.com/) :mag_right: :memo: :fire:<br>
+**and** dont forget **concaten0tes**<br>
+.&nbsp;.&nbsp;.&nbsp;
+
+
+      
