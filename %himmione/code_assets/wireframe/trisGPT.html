@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            }
+
+        body {
+            font-family: "Merriweather", serif;
+            background: #f0f0f0;
+            color: #333;
+            padding: 40px;
+        }   
+
+        .container {
+            display: grid;
+            grid-template-areas: 
+                "header header"
+                "sidebar content"
+                "footer footer";
+            grid-template-columns: 200px 1fr;
+            grid-template-rows: auto 1fr auto;
+            gap: 20px;
+            width: 80%;
+            margin: 0 auto;
+            min-height: 100vh;
+                    }
+                
+            /* Grid Area Assignments */
+            .header {
+                grid-area: header;
+                background-color: #f9c4ac;
+                padding: 20px;
+                border-radius: 20px;
+                text-align: center;
+            }
+
+            .sidebar {
+                grid-area: sidebar;
+                background-color: #626f92;
+                padding: 20px;
+                border-radius: 20px;
+                color: #fff;
+            }
+
+            .content {
+                grid-area: content;
+                background-color: #474168;
+                padding: 20px;
+                border-radius: 20px;
+                color: #ddd;
+            }
+
+            .footer {
+                grid-area: footer;
+                background-color: #272637;
+                padding: 20px;
+                border-radius: 20px;
+                text-align: center;
+                color: #ddd;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="header">header</div>
+            <div class="sidebar">sidebar</div>
+            <div class="content">content</div>
+            <div class="footer">footer</div>
+        </div>
+
+    </body>
+</html>
+
+
+
