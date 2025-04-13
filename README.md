@@ -758,7 +758,7 @@ cat ~/.zsh_history | less<br>
 -      coded by haml: technical documentation re: python;
 -      off all joplin notes; and a fcc rwd cert... fcuk wit me...<br>
 :book: [darthdomino](https://github.com/DarthDomino/Personal-Safety-Manual)<br>
-      - [ ] piet mondrian :art: :framed_picture: `/4dskwxzk`<br>
+      - [ ] piet mondrian :art: :framed_picture: `/4dskwxzk /yeydmfrh` <br>
 :fire: :memo: :mag_right: reverse [engineer here](https://karenaevans.com/) :mag_right: :memo: :fire:<br>
 **and** dont forget **concaten0tes**<br>
 .&nbsp;.&nbsp;.&nbsp;
