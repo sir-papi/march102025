@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Digital Dash</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #111;
+      color: #eee;
+      margin: 0;
+      padding: 0 1rem;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 0 1rem;
+    }
+    nav {
+      background: #222;
+      padding: 1rem;
+      border-radius: 10px;
+      margin-bottom: 1.5rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #7df9ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      margin-bottom: 2rem;
+      border: 1px solid #333;
+      border-radius: 10px;
+      padding: 1rem;
+      background: #1a1a1a;
+    }
+    summary {
+      font-size: 1.25rem;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    details[open] summary {
+      color: #7df9ff;
+    }
+    .theme-toggle {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: #333;
+      color: #eee;
+      padding: 0.5rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .light {
+      background-color: #f4f4f4;
+      color: #111;
+    }
+    .light nav {
+      background: #e0e0e0;
+    }
+    .light section {
+      background: #fff;
+      color: #111;
+    }
+    .light nav a {
+      color: #007acc;
+    }
+  </style>
+</head>
+<body>
+  <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+  <header>
+    <h1>🧠 Digital Dojo Dashboard</h1>
+    <p>Your Integrated Space for Systems, Skill & Self-Mastery</p>
+  </header>
+  
+  <nav>
+    <a href="#cyber">Cybersecurity</a>
+    <a href="#trading">Trading System</a>
+    <a href="#systems">Systems Thinking</a>
+    <a href="#mindset">Mindset & Reflection</a>
+  </nav>
+
+  <section id="cyber">
+    <details open>
+      <summary>🔐 Cybersecurity Learning Path</summary>
+      <ul>
+        <li>Start with Linux & Terminal basics</li>
+        <li>Learn Python for scripting & automation</li>
+        <li>Explore JavaScript basics (for web vulns)</li>
+        <li>Practice on TryHackMe or Hack The Box</li>
+        <li>Track daily learning + weekly reflection</li>
+      </ul>
+    </details>
+  </section>
+
+  <section id="trading">
+    <details>
+      <summary>📈 Options Trading System</summary>
+      <ul>
+        <li>Follow Strat methodology (Rob Smith)</li>
+        <li>Use 4H + 60m confluence for setups</li>
+        <li>Apply Auction Market Theory + Market Profile</li>
+        <li>Capture entry/exit rationale + screenshots</li>
+        <li>Log reflection w/ status (Working, Adjust, Broken)</li>
+      </ul>
+    </details>
+  </section>
+
+  <section id="systems">
+    <details open>
+      <summary>🧠 Systems Thinking Module</summary>
+      <h3>Mental Framework (Daily Prompts)</h3>
+      <ul>
+        <li>"What system am I running today?"</li>
+        <li>"Where’s the loop I’m ignoring?"</li>
+        <li>"Is this a process issue or mindset gap?"</li>
+        <li>"What feedback did I get & what’s next?"</li>
+      </ul>
+
+      <h3>Systems Map (Text Version)</h3>
+      <p>Each domain visualized with: Inputs → Process → Output → Feedback</p>
+      <ul>
+        <li><strong>Cyber:</strong> Labs → Practice → Notes → Retest</li>
+        <li><strong>Trading:</strong> Prep → Trigger → Execute → Review</li>
+        <li><strong>Mindset:</strong> Meditation → Observe → Reframe → Insight</li>
+      </ul>
+
+      <h3>Reflection Log (Status Tracker)</h3>
+      <table border="1" style="width:100%; margin-top: 1rem;">
+        <tr>
+          <th>Date</th>
+          <th>System</th>
+          <th>Status</th>
+          <th>Insight</th>
+        </tr>
+        <tr>
+          <td>2025-04-07</td>
+          <td>Trading Prep</td>
+          <td>Needs Adjust</td>
+          <td>Didn’t fully follow plan — review checklist</td>
+        </tr>
+        <tr>
+          <td>2025-04-08</td>
+          <td>Cyber Practice</td>
+          <td>Working</td>
+          <td>Stayed focused with timer & reviewed notes</td>
+        </tr>
+      </table>
+    </details>
+  </section>
+
+  <section id="mindset">
+    <details>
+      <summary>🧘 Mindset & Reflection</summary>
+      <ul>
+        <li>Daily journaling with systems lens</li>
+        <li>Mindfulness practice (5–10 min)</li>
+        <li>Evening review: “What system ran me today?”</li>
+        <li>Track friction points + highlight insights</li>
+      </ul>
+    </details>
+  </section>
+
+  <script>
+    function toggleTheme() {
+      document.body.classList.toggle('light');
+    }
+  </script>
+</body>
+</html>

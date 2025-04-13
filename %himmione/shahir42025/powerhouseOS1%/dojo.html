@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>digital dojo</title>
+  <style>
+    :root {
+      --bg: #f4f4f4;
+      --text: #333;
+      --header: #2c3e50;
+      --card: #ffffff;
+      --border: #ccc;
+    }
+
+    body.dark {
+      --bg: #1e1e1e;
+      --text: #f5f5f5;
+      --header: #9bd1ff;
+      --card: #2a2a2a;
+      --border: #444;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: var(--bg);
+      color: var(--text);
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    h1, h2, h3 {
+      color: var(--header);
+    }
+
+    section {
+      margin-bottom: 3rem;
+      background-color: var(--card);
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 0.75rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--bg);
+    }
+
+    ul {
+      margin: 0.5rem 0 1.5rem 1.5rem;
+    }
+
+    code {
+      background-color: #eee;
+      padding: 0.2rem 0.4rem;
+      border-radius: 3px;
+    }
+
+    .toggle-button {
+      margin-bottom: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: var(--header);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .collapsible {
+      background-color: var(--card);
+      cursor: pointer;
+      padding: 1rem;
+      border: 1px solid var(--border);
+      text-align: left;
+      outline: none;
+      font-size: 1.1rem;
+      margin-top: 1rem;
+      border-radius: 4px;
+    }
+
+    .content {
+      padding: 0 1rem;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease-out;
+    }
+
+    .content.open {
+      max-height: 1000px;
+    }
+  </style>
+</head>
+<body>
+  <button class="toggle-button" onclick="toggleTheme()">Toggle Theme</button>
+
+  <h1>Cybersecurity, Trading, & Mindful Systems</h1>
+
+  <!-- new -->
+  <section>
+    <button class="collapsible">Systems > Goals</button>
+    <div class="content">
+      <h3>concaten0tes:</h3>
+      <ul>
+        <li><strong>systems are for people who care about winning repeatedly</li>
+        <li><strong>systems create momentum, and over time, momentum is more powerful than motivation</li>
+        <li><strong>Systems are about the how:
+          <ul>
+            <li><strong>the daily habits</strong></li>
+            <li><strong>routines</strong></li>
+            <li><strong>and structures that move you forward</strong></li>
+          </ul>
+        </li>
+        <li><strong>They make success repeatable and sustainable</strong></li>
+        <li><strong>If your system is solid, you’ll make progress whether or not you’re laser-focused on a goal at all times</strong></li>
+        <li><strong>It’s kind of like this:</li>
+        <blockquote>Goal: Run a marathon.
+          System: Run 5x a week, stretch, sleep well, and eat for recovery.
+          You can hit the goal once and stop… or you can keep the system and stay a runner for life.</blockquote>
+      </ul>
+      <h3>🗓 Weekly Systems Practice Plan</h3>
+      <table>
+        <tr><th>Day</th><th>Focus</th><th>Example</th></tr>
+        <tr>
+          <td>Monday</td>
+          <td>Understand a Core Concept</td>
+          <td>Study feedback loops and watch a systems thinking explainer video</td>
+        </tr>
+        <tr>
+          <td>Tuesday</td>
+          <td>Map a System</td>
+          <td>Break down your trading or cybersecurity process into inputs → process → outputs → feedback</td>
+        </tr>
+        <tr>
+          <td>Wednesday</td>
+          <td>Apply a Mental Model</td>
+          <td>Use a loop or leverage point model to analyze a challenge you're facing</td>
+        </tr>
+        <tr>
+          <td>Thursday</td>
+          <td>Run a Self-Audit</td>
+          <td>Journal a system you used today (e.g., trading prep or cyber study) — what worked? what broke?</td>
+        </tr>
+        <tr>
+          <td>Friday</td>
+          <td>Observe a System in the Wild</td>
+          <td>Reflect on a social or digital system you interacted with — what are its loops or leverage points?</td>
+        </tr>
+        <tr>
+          <td>Weekend</td>
+          <td>Systems Reflection & Reset</td>
+          <td>Review your systems map + logs, update anything that needs adjustment, and set 1 system goal for next week</td>
+        </tr>
+      </table>
+      
+    </div>
+  </section>
+  <!-- new -->
+  
+  <section>
+    <button class="collapsible">Cybersecurity Learning System</button>
+    <div class="content">
+      <h3>Phases:</h3>
+      <ul>
+        <li><strong>Foundations:</strong> Networking, OS basics, terminal usage</li>
+        <li><strong>Basic Coding:</strong> Python & Bash scripting</li>
+        <li><strong>Intro to Cybersecurity:</strong> Vulnerabilities, hands-on practice</li>
+        <li><strong>Specialization:</strong> CTFs, bug bounty, tools</li>
+      </ul>
+      <h3>Weekly Flow:</h3>
+      <table>
+        <tr><th>Day</th><th>Focus</th><th>Example</th></tr>
+        <tr><td>Monday</td><td>Concept + Notes</td><td>TCP/IP video + notes</td></tr>
+        <tr><td>Tuesday</td><td>Scripting</td><td>Python port scanner</td></tr>
+        <tr><td>Wednesday</td><td>Practice</td><td>TryHackMe room</td></tr>
+        <tr><td>Thursday</td><td>Review</td><td>Redo challenge, review notes</td></tr>
+        <tr><td>Friday</td><td>Tool Exploration</td><td>Wireshark or Nmap</td></tr>
+        <tr><td>Weekend</td><td>CTF or Project</td><td>HackTheBox machine</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <button class="collapsible">Options Trading System</button>
+    <div class="content">
+      <p><strong>Style:</strong> Swing trading using The Strat + Auction Market Theory + Market Profile. 4H for trend, 60m for entry.</p>
+      <h3>Roadmap Phases:</h3>
+      <ul>
+        <li><strong>Deepen Framework:</strong> AMT, Market Profile, key levels</li>
+        <li><strong>Strat Flow:</strong> Multi-timeframe confirmation, 2-1-2s, 3-1-2s</li>
+        <li><strong>Options Filter:</strong> IV Rank, DTE, ATR vs contract pricing</li>
+        <li><strong>Backtest + Logs:</strong> Track setups, outcomes, lessons</li>
+      </ul>
+      <h3>Weekly Routine:</h3>
+      <table>
+        <tr><th>Day</th><th>Focus</th></tr>
+        <tr><td>Sunday</td><td>Prep: key levels, trend, FTFC setups</td></tr>
+        <tr><td>Mon–Thu</td><td>Execute plan, watch 60m triggers</td></tr>
+        <tr><td>Friday</td><td>Review trade outcomes</td></tr>
+        <tr><td>Weekend</td><td>Watchlist building, contract screening</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <button class="collapsible">Cybersecurity Programming Roadmap</button>
+    <div class="content">
+      <h3>Language Order:</h3>
+      <table>
+        <tr><th>Level</th><th>Language</th><th>Why</th></tr>
+        <tr><td>Beginner</td><td>Python</td><td>Scripting, automation, tools</td></tr>
+        <tr><td>Intermediate</td><td>Bash</td><td>Linux scripting, terminal</td></tr>
+        <tr><td>Applied</td><td>JavaScript</td><td>Web testing, XSS, bug bounty</td></tr>
+        <tr><td>Advanced</td><td>C, Go, Rust</td><td>Exploits, malware, tool building</td></tr>
+      </table>
+      <h3>Resources by Language:</h3>
+      <ul>
+        <li><strong>Python:</strong> Automate the Boring Stuff, TryHackMe Python modules</li>
+        <li><strong>Bash:</strong> Linux Journey, TryHackMe Linux Fundamentals</li>
+        <li><strong>JavaScript:</strong> PortSwigger Academy, XSS Game</li>
+        <li><strong>Extras:</strong> C (Buffer overflows), Go (fast tooling), PowerShell (Windows)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <button class="collapsible">Mindfulness & Systems Thinking</button>
+    <div class="content">
+      <h3>Core Ideas:</h3>
+      <ul>
+        <li>Mindfulness is the ability to observe thoughts, emotions, and reactions non-judgmentally.</li>
+        <li>Systems thinking is the ability to see how parts interconnect, creating sustainable outcomes.</li>
+      </ul>
+
+      <h3>Integration Strategies:</h3>
+      <ul>
+        <li><strong>Daily:</strong> Morning breathwork, evening journaling (What worked? What didn’t?)</li>
+        <li><strong>Weekly:</strong> Reflect on your feedback loops: Are you learning from outcomes?</li>
+        <li><strong>Monthly:</strong> Align your systems with your goals: Are your processes producing the results?</li>
+      </ul>
+
+      <h3>Tooling:</h3>
+      <ul>
+        <li>Use habit trackers for behavior awareness.</li>
+        <li>Mind map or draw loops between effort → output → feedback → refinement.</li>
+        <li>Practice presence when learning or trading. Single-tasking improves clarity.</li>
+      </ul>
+
+      <h3>Quote to Guide:</h3>
+      <p><em>"Goals are for people who care about winning once. Systems are for people who care about winning repeatedly." – James Clear</em></p>
+    </div>
+  </section>
+
+  <script>
+    const collapsibles = document.querySelectorAll('.collapsible');
+    collapsibles.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const content = btn.nextElementSibling;
+        content.classList.toggle('open');
+      });
+    });
+
+    function toggleTheme() {
+      document.body.classList.toggle('dark');
+    }
+  </script>
+</body>
+</html>

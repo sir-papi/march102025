@@ -1,0 +1,156 @@
+!!!
+%html{ lang: "en" }
+    %head
+        %meta{ charset: "UTF-8" }
+        %meta{ name: "viewport", content: "width=device-width, initial-scale: 1.0" }
+        %title fcc tech doc
+        %link{ rel: "stylesheet", href: "style.css" }
+
+    %body
+        %nav#navbar.sidebar
+            %header Programming Python
+            %a{ href: "#basics", class: "nav-link" } basics.
+            %a{ href: "#expressions", class: "nav-link" } expressions. data types. operators.
+            %a{ href: "#variables", class: "nav-link" } variables. functions.
+            %a{ href: "#program", class: "nav-link" } first program.
+            %a{ href: "#trophy", class: "nav-link" } celebration.
+        %main#main-doc
+            %section.main-section#basics 
+                %header basics
+                %p 
+                    this is a technical documentation build compiled 
+                    to fulfill the final requirement for the 
+                    %a{ href: "https://www.freecodecamp.org/learn/2022/responsive-web-design/", target: "_blank" } freeCodeCamp responsive web design certification
+                    |. we are just here for serving instruction or reference for the basics of programming in python, 
+                    which is pretty much all we can do right now because thats all we know lol.
+                    | this material is courtesy of 
+                    %a{ href: "https://automatetheboringstuff.com/", target: "_blank" } automate the boring stuff 
+                    | by al sweigart.
+                %p 
+                    this is merely an introduction which will hip you to:
+                    %ul
+                        %li 
+                            %a{ href: "#expressions" } expressions, data types, & operators
+                        %li 
+                            %a{ href: "#variables" } variables & functions
+                    | and even run your 
+                    %a{ href: "#program" } first program
+                    |. 
+                 
+            %section.main-section#expressions 
+                %header expressions, data types, & operators
+                %p 
+                    %strong expressions are combinations of 
+                    %strong values and 
+                    %strong operators that evaluate to a single value.
+                    | that resulting value can be of various 
+                    %strong data types
+                    |, with the most common being:
+                    %ul
+                        %li 
+                            %strong strings – e.g., "hello"
+                        %li 
+                            %strong integers – whole numbers like 5
+                        %li 
+                            %strong floating-point numbers
+                            | – decimal numbers like 3.14
+                %br
+                %p 
+                    %strong operators are symbols (like + or *) that perform operations on values.
+                    they follow standard math precedence rules (e.g., multiplication happens before addition, unless grouped with parentheses).
+                    in Python, some operators behave differently depending on the data type:
+                    %code + 
+                    | performs string concatenation when used with strings, ie: 
+                    %code "hello" + "world" 
+                    →     
+                    %code "helloworld" 
+                    and
+                    %code * performs string replication when used with a string and an integer
+                    (e.g., "ha" * 3 → "hahaha")
+
+            %section.main-section#variables 
+                %header variables & functions
+                %p 
+                    %strong variables are created and updated by assigning them 
+                    %strong values
+                    | using 
+                    %strong assignment statements
+                    |. in Python, there's no need to declare a variable beforehand — 
+                    assigning a value to a name automatically creates it.
+                %br
+                %p 
+                    we use 
+                    %strong functions to run code that performs tasks.
+                    Functions can work with expressions (combinations of values and operators) or variables (names storing data).
+                    some common built-in functions in Python include:
+                    %ul
+                        %li 
+                            %strong print() – displays output
+                        %li 
+                            %strong input() – collects user input
+                        %li 
+                            %strong len() – returns the length of a sequence (like a string or list)
+                        %li 
+                            %strong str() – converts a value to a string
+                        %li 
+                            %strong int() – converts a value to an integer
+                        %li 
+                            %strong float() – converts a value to a floating-point number
+                %p 
+                    next we will show you how to tie these concepts together 
+                    | and execute your
+                    %strong first program
+                    | using the basic information we've learned thus far.
+
+            %section.main-section#program 
+                %header first program
+                %p 
+                    the Python programming language has a wide range of syntactical constructions,
+                    standard library functions, and interactive development environment features. 
+                    fortunately, you can ignore most of that; you just need to learn enough to write some handy little programs.
+                %p 
+                    so now we have come to the time to 
+                    | run your 
+                    %strong first program
+                    |. you can view the execution of your program using the 
+                    %a{ href: "http://pythontutor.com/", target: "_blank" } Python tutor visualization tool
+                    |. 
+                    Enter your code into your file editor window. the interactive shell runs commands one at a time, 
+                    to write entire Python programs, you’ll type the instructions into the file editor.
+                %p 
+                    now it’s time to create your first program! when the file editor window opens, enter the following into it:
+                    %pre
+                        %code / this program says hello and asks for my name.
+                        %code print('Hello, world!')
+                        %code print('What is your name?')    / ask for their name
+                        %code myName = input()
+                        %code print('It is good to meet you, ' + myName)
+                        %code print('The length of your name is:')
+                        %code print(len(myName))
+                        %code print('What is your age?')    # ask for their age
+                        %code myAge = input()
+                        %code print('You will be ' + str(int(myAge) + 1) + ' in a year.')
+                %p 
+                    | you can see the execution of this particular program at 
+                    %a{ href: "https://autbor.com/hellopy/", target: "_blank" }
+                    |. 
+                    click the forward button to move through each step of the program’s execution. you’ll be able to see how the variables’ values and the output change.
+
+            %section.main-section#trophy
+                %header celebration
+                %p 
+                    | somethin somethin somethin we doin it up. 
+                    %a{ href: "https://github.com/sir-papi/", target: "_blank" } fcuk w/ me bro
+                    |. I’m really on 1 
+                    | rtfn:
+                    %strong technical documentation
+                    | on 
+                    %strong python, based on notes in my 
+                    %strong joplin, coding it in 
+                    %strong haml, finna get the 
+                    %strong freeCodeCamp responsive web design
+                    | certification . . . 
+                    man...its 🆙 on this the 31st day of 100. 
+
+
+                
