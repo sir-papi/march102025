@@ -877,5 +877,54 @@ openssl s_client -connect 10.0.0.1:443
 # april192025
 40/100
 
-`gitPRmergePull.py`
+`gitPRmergePull.py` :arrow_forward: `gitPRmergePull.sh`<hr>
+```
+bash ~/Desktop/gitPRmergePull.sh bed-0902
+
+👉 Fetching remote branches...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 6 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (6/6), 13.68 KiB | 1.52 MiB/s, done.
+From https://github.com/sir-papi/march102025
+ * [new branch]      bed-0902   -> origin/bed-0902
+👉 Checking out bed-0902 from origin...
+branch 'bed-0902' set up to track 'origin/bed-0902'.
+Switched to a new branch 'bed-0902'
+🚀 Creating PR from 'bed-0902' into 'main'...
+
+Creating pull request for bed-0902 into main in sir-papi/march102025
+
+https://github.com/sir-papi/march102025/pull/71
+✅ Merging the PR...
+✓ Merged pull request sir-papi/march102025#71 (Merge bed-0902)
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (1/1), 888 bytes | 444.00 KiB/s, done.
+From https://github.com/sir-papi/march102025
+ * branch            main       -> FETCH_HEAD
+   d64ee58..0b9d9a6  main       -> origin/main
+Updating d64ee58..0b9d9a6
+Fast-forward
+ README.md | 44 ++++++++++++++++++++++----------------
+ 1 file changed, 26 insertions(+), 18 deletions(-)
+✓ Deleted local branch bed-0902 and switched to branch main
+✓ Deleted remote branch bed-0902
+🎉 Done! Branch 'bed-0902' merged into 'main'.
+🔄 Pulling latest changes into local 'main'...
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+From https://github.com/sir-papi/march102025
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+🔋49% 04.19.2025 | 9:32:05 
+powerhouse OS 1% 
+```
+ran thru bash w/ `bash {}.sh {branch}` + different shebang <br>
+`bash` is because it was not executable yet via `chmod +x ...` <br>
+[see](https://chatgpt.com/share/6803a73d-6908-800c-8162-7d317095745c) :speech_balloon: <hr>
+`gitACP.py`<br>
 - [ ] :book: automate the boring: stuff ch4;
+
