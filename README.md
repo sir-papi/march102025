@@ -763,5 +763,44 @@ cat ~/.zsh_history | less<br>
 **and** dont forget **concaten0tes**<br>
 .&nbsp;.&nbsp;.&nbsp;
 
+# april132025
+34/100
+- [x] started [fcc](https://www.freecodecamp.org/learn/python-for-everybody/): **legacy python 4 everybody**
+      - [ ] complete: on more conditional structures;
+- [ ] w r k n g: restoration area program;
+- [ ] :system: **powerhouseOS11%** :recycle:
+- [ ] sam harris: bug bounty type shit; [crying out cloud](https://www.youtube.com/watch?v=DmwhzPX-PDU&list=PLPLGJuP2AXoZ0s3JKlcT3HfDrOAwibQjF&index=11)
+- [ ] nahamsec: [x](https://tinyurl.com/nahamsec456);
+- [ ] ducky script; [docs](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference);
+- [x] :tv: :memo: ethical hacking; :snake:
+- [x] :book: automate the boring stuff; [ch2](https://automatetheboringstuff.com/2e/chapter2/) flow control;
+- [ ] progressive #3: :arrow_up_small: reverse [engineer here](https://karenaevans.com/) :arrow_up_small:
+- [ ] **system reset** :exclamation: :heavy_exclamation_mark:
+      
+# april142025
+35/100
+- [x] :tv: :memo: ethical hacking; :snake:
+- [ ] :100: days of :parking: :bangbang:
+      - [ ] programming | system | hacking
+      - [ ] .:? **what system am i running** ?:.
+      **forward motion** :arrow_forward: :arrow_forward: :arrow_forward: **...**
+      no **if and or** !but **...**
+      **level** :up: ..: :signal_strength: **...**
+      :information_source: am **...**
+- [ ] zip 40951 git dir + 📩 :
+- [ ] joplin: pwd;
 
+# april152025
+36/100
+
+# april162025
+37/100
+- [x] ethical: portScanner.py :bangbang:
+
+# april172025
+38/100
+# april182025
+39/100
+# april192025
+40/100
       
