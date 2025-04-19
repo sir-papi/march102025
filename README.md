@@ -765,8 +765,8 @@ cat ~/.zsh_history | less<br>
 
 # april132025
 34/100
-- [x] started [fcc](https://www.freecodecamp.org/learn/python-for-everybody/): **legacy python 4 everybody**
-      - [ ] complete: on more conditional structures;
+- [x] started [fcc](https://www.freecodecamp.org/learn/python-for-everybody/): **legacy python 4 everybody**<br>
+      - [ ] complete: on more conditional structures;<br>
 - [ ] w r k n g: restoration area program;
 - [ ] :system: **powerhouseOS11%** :recycle:
 - [ ] sam harris: bug bounty type shit; [crying out cloud](https://www.youtube.com/watch?v=DmwhzPX-PDU&list=PLPLGJuP2AXoZ0s3JKlcT3HfDrOAwibQjF&index=11)
@@ -780,13 +780,13 @@ cat ~/.zsh_history | less<br>
 # april142025
 35/100
 - [x] :tv: :memo: ethical hacking; :snake:
-- [ ] :100: days of :parking: :bangbang:
-      - [ ] programming | system | hacking
-      - [ ] .:? **what system am i running** ?:.
-      **forward motion** :arrow_forward: :arrow_forward: :arrow_forward: **...**
-      no **if and or** !but **...**
-      **level** :up: ..: :signal_strength: **...**
-      :information_source: am **...**
+- [ ] :100: days of :parking: :bangbang:<br>
+      - [ ] programming | system | hacking<br>
+      - [ ] .:? **what system am i running** ?:.<br>
+      **forward motion** :arrow_forward: :arrow_forward: :arrow_forward: **...**<br>
+      no **if and or** !but **...**<br>
+      **level** :up: ..: :signal_strength: **...**<br>
+      :information_source: am **...**<br>
 - [ ] zip 40951 git dir + 📩 :
 - [ ] joplin: pwd;
 
