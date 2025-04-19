@@ -748,25 +748,40 @@ cat ~/.zsh_history | less<br>
 - [x] created pwd repo :trophy: <br>
 [new font assets](https://github.com/necolas/normalize.css/issues/665)
 - * <code>font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;</code>
+- [x] :camera_flash: [40.13087˚N, 75.11101˚W](https://www.openstreetmap.org/?mlat=40.13087&mlon=-75.11101#map=12/40.13087/-75.11101" target="_blank">40.13087,-75.11101);
+
 
 # april122025
 33/100
 
+- [x] lint checks :heavy_check_mark:
 :heavy_check_mark: completed fcc rwd :trophy:<br>
 :o: git NEMT . . . :hourglass:<br>
 :speaking_head: "really **doing this**   <br>   
 -      coded by haml: technical documentation re: python;
 -      off all joplin notes; and a fcc rwd cert... fcuk wit me...<br>
 :book: [darthdomino](https://github.com/DarthDomino/Personal-Safety-Manual)<br>
-      - [ ] piet mondrian :art: :framed_picture: `/4dskwxzk /yeydmfrh` <br>
+- [ ] piet mondrian :art: :framed_picture: `/4dskwxzk /yeydmfrh` <br>
 :fire: :memo: :mag_right: reverse [engineer here](https://karenaevans.com/) :mag_right: :memo: :fire:<br>
+- [x] started %haml: karena evans;
 **and** dont forget **concaten0tes**<br>
 .&nbsp;.&nbsp;.&nbsp;
+- [x] started [fcc](https://www.freecodecamp.org/learn/python-for-everybody/): **legacy python 4 everybody**
+- [x] joplin :memo: legacy python 4 everybody;
+:mag_right: :deconstruction::reconstruction:
+**assets**: <br>
+      [html](https://www.toptal.com/designers/htmlarrows/symbols/ ) hex codes<br>
+      colorzilla on [chrome](https://www.colorzilla.com/)
+      google font: londrina;
+:tv: russell[_](https://www.youtube.com/watch?v=EbLh7rZ3rhU)ackoff + transcription [for](https://kome.ai/tools/youtube-transcript-generator) reverse engineer :arrow_up_small: <br>
+- [x] :speech_balloon: font theme switcher; dark mode toggle; :round_pushpin:
+- [ ] **unmangle system**
 
 # april132025
 34/100
-- [x] started [fcc](https://www.freecodecamp.org/learn/python-for-everybody/): **legacy python 4 everybody**<br>
-      - [ ] complete: on more conditional structures;<br>
+
+- [ ] complete: **legacy python 4 everybody**; <br>
+      - [ ] currently: more conditional structures;<br>
 - [ ] w r k n g: restoration area program;
 - [ ] :system: **powerhouseOS11%** :recycle:
 - [ ] sam harris: bug bounty type shit; [crying out cloud](https://www.youtube.com/watch?v=DmwhzPX-PDU&list=PLPLGJuP2AXoZ0s3JKlcT3HfDrOAwibQjF&index=11)
@@ -775,12 +790,16 @@ cat ~/.zsh_history | less<br>
 - [x] :tv: :memo: ethical hacking; :snake:
 - [x] :book: automate the boring stuff; [ch2](https://automatetheboringstuff.com/2e/chapter2/) flow control;
 - [ ] progressive #3: :arrow_up_small: reverse [engineer here](https://karenaevans.com/) :arrow_up_small:
+- [x] photo optimization: `open -a ImageOptim .`
+- [x] :-1: learnshayhowe + jon duckett :book: <br>
+:mag_right: ethical hacking [course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 - [ ] **system reset** :exclamation: :heavy_exclamation_mark:
       
 # april142025
 35/100
-- [x] :tv: :memo: ethical hacking; :snake:
+- [x] :tv: :memo: ethical hacking; :snake: :mag_right: ethical.py
 - [ ] :100: days of :parking: :bangbang:<br>
+      - [ ] joplin: powerhouse;  <br>
       - [ ] programming | system | hacking<br>
       - [ ] .:? **what system am i running** ?:.<br>
       **forward motion** :arrow_forward: :arrow_forward: :arrow_forward: **...**<br>
@@ -792,15 +811,63 @@ cat ~/.zsh_history | less<br>
 
 # april152025
 36/100
+- [x] fizzbuzz<br>
+`redacted.html`<br>
+`py4e.py`<br>
+- [x] :book: automate the boring stuff<br>
+- [x] `ethical.py`
 
 # april162025
 37/100
-- [x] ethical: portScanner.py :bangbang:
+- [x] ethical: portScanner.py :bangbang: <br>
+`py4e.py`<br>
+- [ ] :book: automate the boring stuff: ch3;<br>
+`gitPull.py` <br>
+- [x] ethical: :snake: joplin :memo: <br>
 
 # april172025
 38/100
+- [x] port scanner + 🏠 default gateway ✅ 
+- [x] fizzbuzz
+- [x] shebang: `#!/usr/bin/env python3` <br>
+```
+ls -l calculator.py
+chmod +x calculator.py
+./calculator.py
+```
+reading writing + appending files: `readwrite.py` <br>
+- [x] challenge: `oddsEvens.py` :bangbang: <br>
+- [x] `ethical.py`
+- [ ] challenge: def classify_number 
+```
+netstat -nr | grep default
+curl http://192.168.1.1:8080 
+open 8080.html
+nmap -sV -p 8080 192.168.1.1
+```
+:speech_balloon: [chat](https://chatgpt.com/share/68015b1d-5c4c-800c-b693-e3e61851e5c6)
+
 # april182025
 39/100
+`gitACP.py` <br>
+- [x] challenge: `shootDontPlease.py` :bangbang: <br>
+- [x] challenge: `collatz.py` :bangbang: <br>
+```
+netstat -nr | grep default 
+./scanner.py 10.0.0.1
+curl http://192.168.1.1:++++
+nmap -sV -p 443 10.0.0.1 
+openssl s_client -connect 10.0.0.1:443
+```
+:speech_balloon: [chat](https://chatgpt.com/share/6801e110-8ec8-800c-8542-72755c619ba1) 
+locate sketch.jpg:<br>
+`sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist`
+still didnt work :interrobang:
+- :x: `passwd` :x:
+- [x] :book: automate the boring stuff + joplin :memo: 
+- [x] :open_hands: :pray: :raised_hands: wol masjid :bangbang:
+
 # april192025
 40/100
-      
+`gitPRmergePull.py`
+- [ ] :book: automate the boring: stuff ch4;
