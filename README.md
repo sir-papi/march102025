@@ -807,40 +807,45 @@ cat ~/.zsh_history | less<br>
       **level** :up: ..: :signal_strength: **...**<br>
       :information_source: am **...**<br>
 - [ ] zip 40951 git dir + 📩 :
-- [ ] joplin: pwd;
+- [x] joplin: pwd;
 
 # april152025
 36/100
-- [x] fizzbuzz<br>
+
 `redacted.html`<br>
 `py4e.py`<br>
+- [x] `ethical.py`<br>
+- [x] fizzbuzz<br>
 - [x] :book: automate the boring stuff<br>
-- [x] `ethical.py`
+
 
 # april162025
 37/100
+
+`py4e.py`<br>`gitPull.py` <br>
 - [x] ethical: portScanner.py :bangbang: <br>
-`py4e.py`<br>
-- [ ] :book: automate the boring stuff: ch3;<br>
-`gitPull.py` <br>
+- [x] :book: automate the boring stuff: ch3;<br>
 - [x] ethical: :snake: joplin :memo: <br>
 
 # april172025
 38/100
-- [x] port scanner + 🏠 default gateway ✅ 
-- [x] fizzbuzz
+
+- [x] challenge: fizzbuzz :bangbang: <br>
+- [x] challenge: `oddsEvens.py` :bangbang: <br>
+- [x] `ethical.py` <br>
+- [ ] challenge: def classify_number <br>
+reading writing + appending files: `readwrite.py` <br>
+
 - [x] shebang: `#!/usr/bin/env python3` <br>
 ```
 ls -l calculator.py
 chmod +x calculator.py
 ./calculator.py
 ```
-reading writing + appending files: `readwrite.py` <br>
-- [x] challenge: `oddsEvens.py` :bangbang: <br>
-- [x] `ethical.py`
-- [ ] challenge: def classify_number 
+- [x] port scanner + 🏠 default gateway ✅ <br>
 ```
 netstat -nr | grep default
+./portScanner.py 192.168.1.1
 curl http://192.168.1.1:8080 
 open 8080.html
 nmap -sV -p 8080 192.168.1.1
@@ -849,9 +854,14 @@ nmap -sV -p 8080 192.168.1.1
 
 # april182025
 39/100
-`gitACP.py` <br>
+
+- :x: `passwd` :x:<br>`gitACP.py` <br>
+- [x] :book: automate the boring stuff + joplin :memo: <br>
 - [x] challenge: `shootDontPlease.py` :bangbang: <br>
 - [x] challenge: `collatz.py` :bangbang: <br>
+locate sketch.jpg:<br>
+`sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist`
+still didnt work :interrobang:<br>
 ```
 netstat -nr | grep default 
 ./scanner.py 10.0.0.1
@@ -860,14 +870,12 @@ nmap -sV -p 443 10.0.0.1
 openssl s_client -connect 10.0.0.1:443
 ```
 :speech_balloon: [chat](https://chatgpt.com/share/6801e110-8ec8-800c-8542-72755c619ba1) 
-locate sketch.jpg:<br>
-`sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist`
-still didnt work :interrobang:
-- :x: `passwd` :x:
-- [x] :book: automate the boring stuff + joplin :memo: 
+<br><br>
+
 - [x] :open_hands: :pray: :raised_hands: wol masjid :bangbang:
 
 # april192025
 40/100
+
 `gitPRmergePull.py`
 - [ ] :book: automate the boring: stuff ch4;
