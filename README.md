@@ -594,10 +594,10 @@ still w o r k i n g on (p)roduct
 - [ ] mkdir assets; consolidate go to css
 - [x] font awesome ftw <br>
       ```
-      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-      <a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a>
-      <a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a>
-      <a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a>
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/ font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"><br>
+      <a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a><br>
+      <a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a><br>
+      <a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a><br>
       <a href="https://www.instagram.com/thatuptwork" target="_blank"><i class="fa-brands fa-instagram"></i></a>
       ```
 - [x] google fonts <br>
@@ -940,4 +940,7 @@ ran thru bash w/ `bash {}.sh {branch}` + different shebang <br>
 - [ ] cs50 :bangbang:
 - [ ] :snake: :: :book: ; :computer: : legacy + ethical
 - [ ] :100: days :parking: + `powerhouseOS1%`
+- [x] :arrow_forward: `gitPRmergePull.sh` :arrow_forward: `prMP.sh`
+      - [x] bash ./prMP.sh {branch name}
+      still didnt update the status line in remote; kept the commit changes comment; not sure which file to keep :confused:
 
