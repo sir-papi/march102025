@@ -928,3 +928,16 @@ ran thru bash w/ `bash {}.sh {branch}` + different shebang <br>
 `gitACP.py`<br>
 - [ ] :book: automate the boring: stuff ch4;
 
+# april202025
+41/100
+
+:book: light reading; <br>
+:computer: legacy :snake: 
+
+# april212025
+42/100
+
+- [ ] cs50 :bangbang:
+- [ ] :snake: :: :book: ; :computer: : legacy + ethical
+- [ ] :100: days :parking: + `powerhouseOS1%`
+
