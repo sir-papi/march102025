@@ -593,13 +593,13 @@ still w o r k i n g on (p)roduct
 - [ ] chatGPT 5 levels of progression
 - [ ] mkdir assets; consolidate go to css
 - [x] font awesome ftw <br>
-      ```
-      <link href="https://cdnjs.cloudflare.com/ajax/libs/ font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+```
+<link href="https://cdnjs.cloudflare.com/ajax/libs/ font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <a href="https://github.com/sir-papi/" target="_blank"><i class="fa-brands fa-github fa-beat"></i></a>
 <a href="https://codepen.io/sir-papi" target="_blank"><i class="fa-brands fa-codepen fa-fade"></i></a>
 <a href="http://x.com/thatwork" target="_blank"><i class="fa-brands fa-twitter fa-bounce"></i></a>
 <a href="https://www.instagram.com/thatuptwork" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-      ```
+```
 - [x] google fonts <br>
       `https://fonts.google.com/specimen/Merriweather`
 - [x] canva color wheel <br>
@@ -947,10 +947,10 @@ print(dir(x))
 - [ ] cs50 :bangbang:
 - [ ] :snake: :: :book: ; :computer: : legacy + ethical
 - [ ] :100: days :parking: + `powerhouseOS1%`
-- [x] :arrow_forward: `gitPRmergePull.sh` :arrow_forward: `gitPRmP.sh` :arrow_forward: `prMP.sh`
-      - [x] bash ./prMP.sh {branch name} <br>
-      still didnt update the status line in remote; <br>
-      kept the commit changes comment; <br>
+- [x] :arrow_forward: `gitPRmergePull.sh` :arrow_forward: `gitPRmP.sh` :arrow_forward: `prMP.sh` <br>
+      - [x] `bash ./prMP.sh {branch name}` <br>
+      ~still didnt update the status line in remote;~ <br>
+      ~kept the commit changes comment;~ <br>
       not sure which file to keep :confused:<br>
 - [x] try-try=again-except (branch) + `gitPRmP.sh` <hr>
 
@@ -963,28 +963,37 @@ print(dir(x))
 # april232025
 44/100
 
-- [ ] more review: :screwdriver
+- [ ] more review: :screwdriver:
 - [ ] scroll :up: :arrow_up_small:
 - [ ] `commaCode.py`
 
 # april242025
 45/100
 
+- [ ] scroll :up: :arrow_up_small:
 - [ ] cs50.assignment_1
 - [ ] :100:
 - [ ] [x](https://x.com/aaditsh/status/1915066118785438186?s=46&t=3UigHj2lKXugh1m91mzN5w)>aadit_sheth>ai_video
 - [ ] %haml + :snake: <hr>
-`bash ~/Desktop/gitPRmP.sh south-penn-sq` <br>
-`~/Desktop/gitACP.py` <br>
-      ```
-      insert comment: try_except_comments
-      #print(comments)
-      # Run `git commit -m "comment"`
-      #run_git_command(['git', 'commit', '-m', '"str(comments)"'])
-      #run_git_command([f"'git', 'commit', '-m', '{comments}'"])
-      #run_git_command([f"'git', 'commit', '-m', '"{comments}"'"])
-      #run_git_command([f"'git', 'commit', '-m', {comments}"])
-      #run_git_command([f'git commit -m "{comments}"'])
-      run_git_command(['git', 'commit', '-m', comments])
-      ```
-      all morning `commaCode.py`
+`bash ~/.../gitScripts/gitPRmP.sh south-penn-sq` <br>
+`~/.../gitScripts/gitACP.py` <br>
+```
+insert comment: try_except_comments
+#print(comments)
+# Run `git commit -m "comment"`
+#run_git_command(['git', 'commit', '-m', '"str(comments)"'])
+#run_git_command([f"'git', 'commit', '-m', '{comments}'"])
+#run_git_command([f"'git', 'commit', '-m', '"{comments}"'"])
+#run_git_command([f"'git', 'commit', '-m', {comments}"])
+#run_git_command([f'git commit -m "{comments}"'])
+run_git_command(['git', 'commit', '-m', comments])      
+```
+<br>all morning `commaCode.py`<br>
+- [x] new git: iterations; mv rm mv git init ...
+```
+git init
+git add .
+git status
+git commit -m "initial commit ii"
+gh repo create iterations --private --source=. --remote=origin --push
+```
