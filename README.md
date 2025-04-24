@@ -926,7 +926,7 @@ ran thru bash w/ `bash {}.sh {branch}` + different shebang <br>
 `bash` is because it was not executable yet via `chmod +x ...` <br>
 [see](https://chatgpt.com/share/6803a73d-6908-800c-8162-7d317095745c) :speech_balloon: <hr>
 `gitACP.py`<br>
-- [ ] :book: automate the boring: stuff ch4;
+- [x] :book: automate the boring: stuff ch4;
 
 # april202025
 41/100
@@ -966,3 +966,13 @@ print(dir(x))
 - [ ] more review: :screwdriver
 - [ ] scroll :up: :arrow_up_small:
 - [ ] `commaCode.py`
+
+# april242025
+45/100
+
+- [ ] cs50.assignment_1
+- [ ] :100:
+- [ ] [x]()>aadit_sheth>ai_video
+- [ ] %haml + :snake: <hr>
+`bash ~/Desktop/gitPRmP.sh south-penn-sq`
+`~/Desktop/gitACP.py`
