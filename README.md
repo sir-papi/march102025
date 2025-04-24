@@ -972,7 +972,7 @@ print(dir(x))
 
 - [ ] cs50.assignment_1
 - [ ] :100:
-- [ ] [x]()>aadit_sheth>ai_video
+- [ ] [x](https://x.com/aaditsh/status/1915066118785438186?s=46&t=3UigHj2lKXugh1m91mzN5w)>aadit_sheth>ai_video
 - [ ] %haml + :snake: <hr>
 `bash ~/Desktop/gitPRmP.sh south-penn-sq` <br>
 `~/Desktop/gitACP.py` <br>
@@ -980,11 +980,11 @@ print(dir(x))
       insert comment: try_except_comments
       #print(comments)
       # Run `git commit -m "comment"`
-      #run_git_command(['git', 'commit', '-m', '"str(comments)"']):x:
-      #run_git_command([f"'git', 'commit', '-m', '{comments}'"]):x:
-      #run_git_command([f"'git', 'commit', '-m', '"{comments}"'"]):x:
-      #run_git_command([f"'git', 'commit', '-m', {comments}"]):x:
-      #run_git_command([f'git commit -m "{comments}"']):x:
+      #run_git_command(['git', 'commit', '-m', '"str(comments)"'])
+      #run_git_command([f"'git', 'commit', '-m', '{comments}'"])
+      #run_git_command([f"'git', 'commit', '-m', '"{comments}"'"])
+      #run_git_command([f"'git', 'commit', '-m', {comments}"])
+      #run_git_command([f'git commit -m "{comments}"'])
       run_git_command(['git', 'commit', '-m', comments])
       ```
-      
+      all morning `commaCode.py`
