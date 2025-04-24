@@ -974,5 +974,11 @@ print(dir(x))
 - [ ] :100:
 - [ ] [x]()>aadit_sheth>ai_video
 - [ ] %haml + :snake: <hr>
-`bash ~/Desktop/gitPRmP.sh south-penn-sq`
-`~/Desktop/gitACP.py`
+`bash ~/Desktop/gitPRmP.sh south-penn-sq` <br>
+`~/Desktop/gitACP.py` <br>
+      ```
+      #run_git_command(['git', 'commit', '-m', '"str(comments)"'])
+      run_git_command([f"'git', 'commit', '-m', '{comments}'"])
+      :x:run_git_command([f'git commit -m "{comments}"'])
+      ```
+      
