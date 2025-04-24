@@ -954,3 +954,15 @@ print(dir(x))
       not sure which file to keep :confused:<br>
 - [x] try-try=again-except (branch) + `gitPRmP.sh` <hr>
 
+# april222025
+43/100
+
+- [x] :book: automate; ch4 :heavy_check_mark: + ch5 :heavy_check_mark:
+- [x] reviewing
+
+# april232025
+44/100
+
+- [ ] more review: :screwdriver
+- [ ] scroll :up: :arrow_up_small:
+- [ ] `commaCode.py`
