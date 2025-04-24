@@ -733,16 +733,16 @@ precmd_functions+=(set_prompt)
 
 random:
 ```
-pmset -g batt | grep -Eo "[0-9]+%"\ <br>
-gem install haml\<br>
-sudo gem install haml<br>
-haml render my1st.haml<br>
-haml render my1st.haml > my1st.html\<br>
-open my1st.html<br>
-gem install htmlbeautifier<br>
-sudo gem install htmlbeautifier\<br>
-haml render my1st.haml | htmlbeautifier > myBeautiful1st.html<br>
-cat ~/.zsh_history | less<br>
+pmset -g batt | grep -Eo "[0-9]+%"\  
+gem install haml\  
+sudo gem install haml  
+haml render my1st.haml  
+haml render my1st.haml > my1st.html\  
+open my1st.html  
+gem install htmlbeautifier  
+sudo gem install htmlbeautifier\  
+haml render my1st.haml | htmlbeautifier > myBeautiful1st.html  
+cat ~/.zsh_history | less  
 ```
 
 - [x] created pwd repo :trophy: <br>
@@ -997,3 +997,25 @@ git status
 git commit -m "initial commit ii"
 gh repo create iterations --private --source=. --remote=origin --push
 ```
+- [x] haml deconstruction:reconstruction  
+`gem uninstall haml` <br>
+`gem install haml` :x: FAILED  
+```
+brew install rbenv ruby-build  
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc  
+source ~/.zshrc  
+rbenv install 3.3.0  
+rbenv global 3.3.0  
+gem install haml :x: FAILED  
+rbenv global 3.3.0  
+exec $SHELL  
+ruby -v  
+gem env  
+gem install haml :bangbang: WORKING  
+which haml
+```
+--no-ugly: still on THOR; smh but `haml himmione.haml > heHim.html` :heavy_check_mark:  
+`heHim.html` still unindented :smh:  
+:bangbang: im over it :lol: `haml himmione.haml` output to shell tho :thumbs_up:  
+- [x] progressive 3: haml :heavy_check_mark: html; full copy + css :o:
+
