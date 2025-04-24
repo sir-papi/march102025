@@ -977,8 +977,14 @@ print(dir(x))
 `bash ~/Desktop/gitPRmP.sh south-penn-sq` <br>
 `~/Desktop/gitACP.py` <br>
       ```
-      #run_git_command(['git', 'commit', '-m', '"str(comments)"'])
-      run_git_command([f"'git', 'commit', '-m', '{comments}'"])
-      :x:run_git_command([f'git commit -m "{comments}"'])
+      insert comment: try_except_comments
+      #print(comments)
+      # Run `git commit -m "comment"`
+      #run_git_command(['git', 'commit', '-m', '"str(comments)"']):x:
+      #run_git_command([f"'git', 'commit', '-m', '{comments}'"]):x:
+      #run_git_command([f"'git', 'commit', '-m', '"{comments}"'"]):x:
+      #run_git_command([f"'git', 'commit', '-m', {comments}"]):x:
+      #run_git_command([f'git commit -m "{comments}"']):x:
+      run_git_command(['git', 'commit', '-m', comments])
       ```
       
