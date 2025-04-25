@@ -613,7 +613,7 @@ still w o r k i n g on (p)roduct
 - [x] :tv: [master the basics of computer networking](https://www.youtube.com/watch?v=DYgRqIeuwVQ);
 - [x] [techwithtris](https://codepen.io/techwithtris/pen/vWeWaX) [wireframe](https://github.com/sir-papi/jason-martin/blob/main/freecodecamp/wireframe/techwithtris.html)
 - [x] :book: automate the boring stuff: based off [chatGPT :one: thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea);
-- [ ] python :snake: 
+- [x] python :snake: 
 - [x] :exclamation: more [1️⃣ thing](https://chatgpt.com/share/67f34023-73c4-800c-a663-b847ced5cfea) :o: :exclamation:
 - [x] :exclamation: [shahir](https://github.com/sir-papi/march102025/tree/main/shahir42025) :exclamation:
 - [x] joplin :memo:
@@ -689,7 +689,7 @@ still w o r k i n g on (p)roduct
 - [ ] joplin trading
 - [ ] automate :book: | :snake: | linux
 - [ ] O M G
-- [ ] :trophy: `/zshHacker` <br>
+- [x] :trophy: `/zshHacker` <br>
       - tuesday: prompt; wednesday; current time; today; battery%;<br>
       :o: define + deconstruct to the fundamental components<br>
 **code**:
@@ -806,7 +806,7 @@ cat ~/.zsh_history | less
       no **if and or** !but **...**<br>
       **level** :up: ..: :signal_strength: **...**<br>
       :information_source: am **...**<br>
-- [ ] zip 40951 git dir + 📩 :
+- [x] zip 40951 git dir + 📩 :
 - [x] joplin: pwd;
 
 # april152025
@@ -965,7 +965,7 @@ print(dir(x))
 
 - [ ] more review: :screwdriver:
 - [ ] scroll :up: :arrow_up_small:
-- [ ] `commaCode.py`
+- [x] ~commaCode~
 
 # april242025
 45/100
@@ -974,7 +974,7 @@ print(dir(x))
 - [ ] cs50.assignment_1
 - [ ] :100:
 - [ ] [x](https://x.com/aaditsh/status/1915066118785438186?s=46&t=3UigHj2lKXugh1m91mzN5w)>aadit_sheth>ai_video
-- [ ] %haml + :snake: <hr>
+- [x] %haml + :snake: <hr>
 `bash ~/.../gitScripts/gitPRmP.sh south-penn-sq` <br>
 `~/.../gitScripts/gitACP.py` <br>
 ```
@@ -1019,3 +1019,14 @@ which haml
 :bangbang: im over it :lol: `haml himmione.haml` output to shell tho :thumbs_up:  
 - [x] progressive 3: haml :heavy_check_mark: html; full copy + css :o:
 
+# april252025
+46/100
+
+- [ :heavy_check_mark: ] `commaCode.py` <br>
+- [ ] progressive3 css deconstruction[:](https://karenaevans.com/)reconstruction
+- [ ] cs50: assignment1  
+chill on :snake: 
+      - been going hard  
+      - get at other shit :book: :tv: ethical; :a: :information_source:
+      - 2w html + python ... then linux
+      - :100:
