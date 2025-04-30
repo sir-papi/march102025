@@ -1018,15 +1018,66 @@ which haml
 `heHim.html` still unindented :smh:  
 :bangbang: im over it :lol: `haml himmione.haml` output to shell tho :thumbs_up:  
 - [x] progressive 3: haml :heavy_check_mark: html; full copy + css :o:
+- [x] scripts: `./grits/acp.py`
 
 # april252025
 46/100
 
 - [ :heavy_check_mark: ] `commaCode.py` <br>
 - [ ] progressive3 css deconstruction[:](https://karenaevans.com/)reconstruction
-- [ ] cs50: assignment1  
+- [ ] cs50: assignment1
+- [x] `acpush.py` insert comment: :trophy: nigga we made it :bangbang:
 chill on :snake: 
       - been going hard  
       - get at other shit :book: :tv: ethical; :a: :information_source:
       - 2w html + python ... then linux
       - :100:
+
+# april262025
+47/100  
+
+`coinflips.py`  
+git: `./grits/acp.py` add + commit + push  
+
+# april272025
+48/100  
+
+💻 `ethical.py` + 📺 ethical  
+:grey_question: `def scanner():`  
+```
+netstat -nr | grep default
+./scanner.py 192.168.1.1
+curl http://192.168.1.1:443 
+curl http://192.168.1.1:80
+nmap -sV -p 443 192.168.1.1
+openssl s_client -connect 192.168.1.1:80
+```
+`./iterations/shell`
+`agency.py`  
+
+# april282025
+49/100  
+
+a-Shell :bangbang:  
+`payroll.py`  
+`mysocks.py`  
+`avgs.py`  
+`bigcount.py`  
+
+# april292025
+50/100  
+
+`brew install telnet`  
+- [x] freecodecamp: legacy :snake:
+- [ :o: ] `geocodekey.py`
+  `retrieving http://maps.googleapis.com/maps/api/geocode/json?address=`
+      - need API key
+- [x] shahir: sha256; `./iterations/shell/ymcmb.py`
+- [x] `maybejson.py` `xmlxsd.py`
+- [x] a-Shell:
+      - `avgs.py` `agency.py` `youngmoney.py` `rtfn.py` `coins.py`
+      
+# april302025
+51/100  
+
+- [x] freecode camp legacy exercises 
