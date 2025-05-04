@@ -1080,4 +1080,30 @@ a-Shell :bangbang:
 # april302025
 51/100  
 
-- [x] freecode camp legacy exercises 
+- [x] freecode camp legacy exercises
+
+# may12025
+52/100  
+
+:tv: [anonymity](https://www.youtube.com/watch?v=zpDrIvF1NiI) digital footprint  
+:tv: andrew bustamante  
+- [x] hackthebox
+- [x] htb: intro to academy: :trophy: :white_check_mark:
+      
+# may22025
+53/100  
+
+- [x] htb: intro to information security
+      
+# may32025
+54/100  
+
+:trophy: :white_check_mark: htb: intro to infosec
+- [x] htb: linux fundamentals
+- [x] vimtutor
+      
+# may42025
+55/100  
+
+:trophy: :white_check_mark: vimtutor
+- [x] htb: linux fundamentals
