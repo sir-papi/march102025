@@ -1080,4 +1080,75 @@ a-Shell :bangbang:
 # april302025
 51/100  
 
-- [x] freecode camp legacy exercises 
+- [x] freecode camp legacy exercises
+
+# may12025
+52/100  
+
+:tv: [anonymity](https://www.youtube.com/watch?v=zpDrIvF1NiI) digital footprint  
+:tv: andrew bustamante  
+- [x] hackthebox: pg267;
+- [x] htb: intro to academy: :trophy: :white_check_mark:
+      
+# may22025
+53/100  
+
+- [x] ethical: virtualbox + kali linux;
+- [x] htb: intro to information security
+- [ ] :o: gene spafford
+      
+# may32025
+54/100  
+
+:o: custom zsh
+:trophy: :white_check_mark: htb: intro to infosec
+- [x] htb: linux fundamentals + joplin
+`ssh htb-student@10.129.247.103`
+```
+uname -a -m
+id
+who
+whoami
+echo $HOME
+echo $SHELL
+echo $MAIL
+ifconfig
+netstat
+man history
+history
+ls -li ./etc/sudoers
+mkdir -p ~/Desktop/shahir/two/one
+brew install tree
+tree .
+fc -l 1
+vim agency.py
+nano agency.py
+rmdir ./shahir/two/one
+nano test.text
+cat test.text
+vimtutor
+which python3
+```
+- [x] vimtutor
+      
+# may42025
+55/100  
+
+:o: system :o: daily program :o: new while/for loops :bangbang:  
+:trophy: :white_check_mark: vimtutor  
+- [x] technical documentation: `vimtutor.txt`  
+- [x] htb: linux fundamentals
+      - file descriptors + redirections; filter contents;
+      - joplin :bangbang:
+      - [::](https://explainshell.com/) explain shell [::](https://github.com/idank/explainshell/blob/master/README.md)
+      - openvpn + `ssh htb-student@10.129.74.237` :trophy:
+couldnt get it on virtual machine tho
+:tv: mr. robot; careful massacre of the bourgeoisie; [...](https://onpiratesatellite.com/)
+- [x] mkdir .sneaky :bangbang:
+w o r k[. . .](https://github.com/sir-papi/iterations/blob/main/shell/542025.txt)
+
+# may52025
+56/100  
+
+- [x] ACPs. . .
+git token:
