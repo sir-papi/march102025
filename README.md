@@ -1145,3 +1145,10 @@ which python3
 couldnt get it on virtual machine tho
 :tv: mr. robot; careful massacre of the bourgeoisie; [...](https://onpiratesatellite.com/)
 - [x] mkdir .sneaky :bangbang:
+w o r k[. . .](https://github.com/sir-papi/iterations/blob/main/shell/542025.txt)
+
+# may52025
+56/100  
+
+- [x] ACPs. . .
+git token:
