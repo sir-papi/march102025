@@ -1138,3 +1138,10 @@ which python3
 :trophy: :white_check_mark: vimtutor  
 - [x] technical documentation: `vimtutor.txt`  
 - [x] htb: linux fundamentals
+      - file descriptors + redirections; filter contents;
+      - joplin :bangbang:
+      - [::](https://explainshell.com/) explain shell [::](https://github.com/idank/explainshell/blob/master/README.md)
+      - openvpn + `ssh htb-student@10.129.74.237` :trophy:
+couldnt get it on virtual machine tho
+:tv: mr. robot; careful massacre of the bourgeoisie; [...](https://onpiratesatellite.com/)
+- [x] mkdir .sneaky :bangbang:
