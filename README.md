@@ -1152,3 +1152,14 @@ w o r k[. . .](https://github.com/sir-papi/iterations/blob/main/shell/542025.txt
 
 - [x] ACPs. . .
 git token:
+- :o: cs50.cybersecurity.assignment1: :screwdriver:
+- work@7904.dotdot :white_check_mark:
+`smmfh.py` on a-Shell; finances a mess :bangbang:
+kdot. sza. h+hara . . . gnx tour on :mushroom:
+
+- 
+# may62025
+57/100  
+
+:o: work on vm + vpn + kali linux + ssh  
+:o: . . . 💯 powerhouseOS1% . . .
