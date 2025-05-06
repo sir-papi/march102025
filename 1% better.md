@@ -1,3 +1,36 @@
+. . . <hr>
+
+:thought_balloon:  
+havent typed here in a minute
+need to tighten up :screwdriver:
+fried cinco de mayo (yesterday)
+off 2/3 shots smh left the bottle in the van
+… peep scripts:
+ .. programming
+ … loops
+ … continue vs break
+ … if elif else conditionals
+… mufuggas behavior is somethin somethin somethin …
+get my own program together …
+**paulie.py**
+havent stuck to :lotus_position_man: **script**
+hit :books: :notebook: :memo: :white_heart:
+consistency w/ :weight_lifting_man: :martial_arts_uniform: :boxing_glove:
+e t  c e t e r a :bangbang:
+but we staying positive:
+coding going :arrow_double_up: :up: on a tuesday :bangbang:
+:white_check_mark: html. css. %haml. python. linux. cybersecurity.
+step by step; piece by piece;
+stay on the :art: & the :framed_picture: will unfold :bangbang: . . .
+im on it :bangbang:
+establish my :100:
+be close to the :mosque: :kaaba: + get in the dojo :japanese_castle:
+the :trophy: wins :medal_military: soon come . . .
+good could be better :bangbang: d o  b e t t e r :bangbang:  
+:boom:  
+<i>tuesday: 5.6.25: 1151: vernon road: 19150</i><br>
+<hr>
+
 ⭕️ <br>
 { joplin: 📝; 
 📖: 🐍; 
