@@ -1026,13 +1026,13 @@ which haml
 - [ :heavy_check_mark: ] `commaCode.py` <br>
 - [ ] progressive3 css deconstruction[:](https://karenaevans.com/)reconstruction
 - [ ] cs50: assignment1
-- [x] `acpush.py` insert comment: :trophy: nigga we made it :bangbang:
-chill on :snake: 
+- [x] `acpush.py` insert comment: :trophy: nigga we made it :bangbang:  
+chill on :snake:  
       - been going hard  
-      - get at other shit :book: :tv: ethical; :a: :information_source:
-      - 2w html + python ... then linux
-      - :100:
-
+      - get at other shit :book: :tv: ethical; :a: :information_source:  
+      - 2w html + python ... then linux  
+      - :100:  
+      
 # april262025
 47/100  
 
@@ -1069,12 +1069,12 @@ a-Shell :bangbang:
 
 `brew install telnet`  
 - [x] freecodecamp: legacy :snake:
-- [ :o: ] `geocodekey.py`
-  `retrieving http://maps.googleapis.com/maps/api/geocode/json?address=`
-      - need API key
+- [ :o: ] `geocodekey.py`  
+  `retrieving http://maps.googleapis.com/maps/api/geocode/json?address=`  
+  - need API key
 - [x] shahir: sha256; `./iterations/shell/ymcmb.py`
 - [x] `maybejson.py` `xmlxsd.py`
-- [x] a-Shell:
+- [x] a-Shell:  
       - `avgs.py` `agency.py` `youngmoney.py` `rtfn.py` `coins.py`
       
 # april302025
@@ -1100,10 +1100,10 @@ a-Shell :bangbang:
 # may32025
 54/100  
 
-:o: custom zsh
-:trophy: :white_check_mark: htb: intro to infosec
-- [x] htb: linux fundamentals + joplin
-`ssh htb-student@10.129.247.103`
+:o: custom zsh  
+:trophy: :white_check_mark: htb: intro to infosec  
+- [x] htb: linux fundamentals + joplin  
+`ssh htb-student@10.129.247.103`  
 ```
 uname -a -m
 id
@@ -1137,27 +1137,29 @@ which python3
 :o: system :o: daily program :o: new while/for loops :bangbang:  
 :trophy: :white_check_mark: vimtutor  
 - [x] technical documentation: `vimtutor.txt`  
-- [x] htb: linux fundamentals
-      - file descriptors + redirections; filter contents;
-      - joplin :bangbang:
-      - [::](https://explainshell.com/) explain shell [::](https://github.com/idank/explainshell/blob/master/README.md)
-      - openvpn + `ssh htb-student@10.129.74.237` :trophy:
-couldnt get it on virtual machine tho
-:tv: mr. robot; careful massacre of the bourgeoisie; [...](https://onpiratesatellite.com/)
-- [x] mkdir .sneaky :bangbang:
-w o r k[. . .](https://github.com/sir-papi/iterations/blob/main/shell/542025.txt)
+- [x] htb: linux fundamentals  
+      - file descriptors + redirections; filter contents;  
+      - joplin :bangbang:  
+      - [::](https://explainshell.com/) explain shell [::](https://github.com/idank/explainshell/blob/master/README.md)  
+      - openvpn + `ssh htb-student@10.129.74.237` :trophy:  
+      couldnt get it on virtual machine tho  
+:tv: mr. robot; careful massacre of the bourgeoisie; [...](https://onpiratesatellite.com/)  
+- [x] mkdir .sneaky :bangbang:  
+w o r k[. . .](https://github.com/sir-papi/iterations/blob/main/shell/542025.txt)  
 
 # may52025
 56/100  
 
-- [x] ACPs. . .
-git token:
-- :o: cs50.cybersecurity.assignment1: :screwdriver:
-- work@7904.dotdot :white_check_mark:
-`smmfh.py` on a-Shell; finances a mess :bangbang:
-kdot. sza. h+hara . . . gnx tour on :mushroom:
+- [x] ACPs. . .  
+git token:  
+- :o: cs50.cybersecurity.assignment1: :screwdriver:  
+- work@7904 .dot. :white_check_mark:  
+`smmfh.py` on a-Shell;  
+finances a mess :bangbang:  
+kdot. sza. h+hara . . .  
+gnx tour on :mushroom:
+-  
 
-- 
 # may62025
 57/100  
 
@@ -1186,6 +1188,7 @@ kdot. sza. h+hara . . . gnx tour on :mushroom:
 64/100  
 
 htb: filter contents;  
+:book: the [rust](https://doc.rust-lang.org/stable/book/title-page.html) programming language;
 ```
 a-Shell [1009]
 cd ./.shahir
@@ -1203,6 +1206,9 @@ vim paulie.py
 %himmione: css;  
 :tv: only css guide [-](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
 [[+]](https://flexboxfroggy.com) :frog:  
-[+] UI|card design [-](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d): andrew coyle [[+](https://www.andrewcoyle.com)]  
-:book: theory of games & economic behavior [|](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
+[+] UI|card design [[+]](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d) andrew coyle [[+]](https://www.andrewcoyle.com)  
+:book: theory of games & economic behavior [[+]](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
+
+# may142025
+65/100  
 
