@@ -1163,3 +1163,14 @@ kdot. sza. h+hara . . . gnx tour on :mushroom:
 
 :o: work on vm + vpn + kali linux + ssh  
 :o: . . . 💯 powerhouseOS1% . . .
+
+# may142025
+5*/100  
+
+:computer: notbroke215; :whisper:  
+%himmione: css;  
+:tv: only css guide [. . .](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
+[[+]](https://flexboxfroggy.com) :tv: :frog:  
+[+] UI|card design [-](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d): andrew coyle [[+](https://www.andrewcoyle.com)]  
+:book: theory of games & economic behavior [|](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
+
