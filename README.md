@@ -1204,7 +1204,7 @@ vim paulie.py
 
 :computer: notbroke215; :shushing_face:  
 %himmione: css;  
-:tv: only css guide [-](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
+:tv: only css guide [[+]](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
 [[+]](https://flexboxfroggy.com) :frog:  
 [+] UI|card design [[+]](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d) andrew coyle [[+]](https://www.andrewcoyle.com)  
 :book: theory of games & economic behavior [[+]](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
