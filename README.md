@@ -1164,13 +1164,45 @@ kdot. sza. h+hara . . . gnx tour on :mushroom:
 :o: work on vm + vpn + kali linux + ssh  
 :o: . . . 💯 powerhouseOS1% . . .
 
-# may142025
-5*/100  
+# may72025
+58/100 
+# may82025
+59/100 
+# may92025
+60/100 
+# may102025
+61/100 
+# may112025
+62/100  
 
-:computer: notbroke215; :whisper:  
+`https://github.com/sir-papi/iterations/blob/main/dailies/5112025.txt`  
+
+# may122025
+63/100  
+
+`https://github.com/sir-papi/iterations/blob/main/dailies/5122025.txt`  
+
+# may132025
+64/100  
+
+htb: filter contents;  
+```
+a-Shell [1009]
+cd ./.shahir
+vim paulie.py
+! 1% better
+./paulie.py
+```
+`htb pawnbox`  
+`mkdir ~/nishang/ && git clone https://github.com/samratashok/nishang.git ~/nishang`  
+
+# may142025
+65/100  
+
+:computer: notbroke215; :shushing_face:  
 %himmione: css;  
-:tv: only css guide [. . .](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
-[[+]](https://flexboxfroggy.com) :tv: :frog:  
+:tv: only css guide [-](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
+[[+]](https://flexboxfroggy.com) :frog:  
 [+] UI|card design [-](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d): andrew coyle [[+](https://www.andrewcoyle.com)]  
 :book: theory of games & economic behavior [|](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
 
