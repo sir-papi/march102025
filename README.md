@@ -1209,6 +1209,11 @@ vim paulie.py
 [+] UI|card design [[+]](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d) andrew coyle [[+]](https://www.andrewcoyle.com)  
 :book: theory of games & economic behavior [[+]](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
 
-# may142025
-65/100  
+# may152025
+66/100  
+
+- [ ] himmione
+      sample +html +css
+- [x] flexbox :frog:
+- [x] tv: only css guide
 
