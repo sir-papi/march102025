@@ -1203,12 +1203,46 @@ vim paulie.py
 65/100  
 
 :computer: notbroke215; :shushing_face:  
+:laptop: heavy; dailies/5142025.txt  
+```
+ifconfig > ~/Desktop/.sneaky/log.txt
+kali@kali
+ssh apple@10.0.0.226
+ssh da@10.0.0.148
+```
 %himmione: css;  
 :tv: only css guide [[+]](https://m.youtube.com/watch?v=i1FeOOhNnwU)  
 [[+]](https://flexboxfroggy.com) :frog:  
 [+] UI|card design [[+]](https://coyleandrew.medium.com/8-rules-to-help-you-design-a-better-card-user-interface-a239257d633d) andrew coyle [[+]](https://www.andrewcoyle.com)  
 :book: theory of games & economic behavior [[+]](https://dwulff.github.io/_Goodchoices/Literature/Von%20NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour.pdf)
 
-# may142025
-65/100  
+# may152025
+66/100  
 
+- [x] rust installed  
+`curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh`
+progressive3: haml%himmione + sample;
+
+# may162025
+67/100  
+
+- [x] rust  
+```
+man mkdir
+mkdir -p ~/projects/hello_world
+touch ~/projects/hello_world/main.rs
+cd ~/projects/hello_world
+code ./main.rs
+rustc main.rs
+./main
+```
+
+# may172025
+68/100  
+
+gotta get my self  
+my systems  
+together  
+/systemHim  
+- [ ] hack the box  
+- [ ] whohim.html
