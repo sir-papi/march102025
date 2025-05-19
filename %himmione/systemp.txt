@@ -1,0 +1,29 @@
+:white_heart:
+ :lotus_position_man:
+ :weight_lifting_man:
+ :book:
+ :pray:
+ :trophy:
+ -  
+ cs50
+ python legacy 🐍 
+ %himmione + progressives 💻 
+ automate the boring stuff 📖
+ ethical 📺 
+ hack the 📦 
+ - 
+ networking ⭕
+sundays:
+- rest; review; recalibrate; reconstruction; reprogram;
+- sha: every beginning is difficult ⭕
+https://en.wikiquote.org/wiki/German_proverbs
+- anfangen somethin somethin somethin
+ethical
+5 stages of ethical hacking
+/trpl101
+/gitCORT
+a-Shell [1009]
+cd ./.shahir
+vim paulie.py
+! 1% better
+./paulie.py
